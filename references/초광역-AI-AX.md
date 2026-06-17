@@ -69,6 +69,7 @@ updated: 2026-06-17T00:00:00Z
 
 - [[entities/김상욱]] — 울산광역시장 당선인
 - [[concepts/울산-산업전환]] — 울산 제조업 AI 전환 현황
+- [[references/울산-SAFE-X]] — AI 기반 통합안전망 (울산 내 연계 AI 사업)
 - [[synthesis/울산-정치지형]] — 민선 9기 출범 맥락
 
 ## Sources
