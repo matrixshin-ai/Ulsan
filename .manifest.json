@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0",
+  "last_ingest": "2026-06-17T00:00:00Z",
+  "sources_processed": [
+    "People/김우성 프로필  네이버 검색.md",
+    "People/김태선 민주당 의원.md",
+    "People/김현 한국교통대.md",
+    "People/천현우.md",
+    "정치/울산시 국회의원.md",
+    "행정/역대 울산 경제부시장.md",
+    "행정/울산 시금고 - BNK, NH.md",
+    "행정/울산시 출연기관장 5명·임원 1명 이달 말 임기 종료.md"
+  ],
+  "pages_created": [
+    "entities/김태선.md",
+    "entities/김우성.md",
+    "entities/천현우.md",
+    "entities/김현.md",
+    "synthesis/울산-정치지형.md",
+    "references/역대-울산-경제부시장.md",
+    "references/울산-시금고.md",
+    "references/울산-출연기관-거버넌스.md",
+    "concepts/울산-하청노동-구조.md"
+  ],
+  "total_sources_in_vault": 43,
+  "sources_remaining": 35
+}

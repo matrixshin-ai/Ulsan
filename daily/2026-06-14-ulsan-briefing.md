@@ -51,7 +51,6 @@ _(기사 없음)_
 
 ## 정치·행정·시정
 - [주식 팔아 강남 갔다…3조7000억 주택시장 유입](https://www.kmib.co.kr/article/view.asp?arcid=0029964716) (국민일보 | 경제)
-  > <center><img src="https://image.kmib.co.kr/online_image/2026/0614/2026061407183730456_1781389117_0029964716.jpg" /></center><br />주식·채권을 팔아 마련한 자금 3조7
 
 ## 기타·관찰
 - [울산지방해양수산청, 울산항 위험물 하역시설 집중 안전점검 실시](https://www.ksilbo.co.kr/news/articleView.html?idxno=1059343) (경상일보 - 전체기사)
