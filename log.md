@@ -7,3 +7,4 @@
 - [2026-06-17T12:00:00Z] INGEST source="daily/2026-06-14/15/16, 간담회 전체 통합 (3 files)" pages_updated=0 pages_created=3 mode=full batch=5/5 COMPLETE
 - [2026-06-17T12:00:00Z] STATUS ingest_complete=true total_sources=41 total_pages=27 sources_remaining=0
 - [2026-06-17T14:00:00Z] LINT_CONSOLIDATE links_fixed=3 orphans_rescued=2 tag_fixes=1 relationship_type_fixes=2 wikilink_format_fixes=1 total_edits=9 open_warns=5(provenance_drift) open_info=4(roadmap) report=synthesis/consolidation-2026-06-17.md
+- [2026-06-26T00:00:00Z] WIKI_UPDATE project=ulsan-vault pages_created=3 pages_updated=5 source_cwd=C:/Users/신민식/Documents/ulsan delta_since=2026-06-17 new_sources=35
