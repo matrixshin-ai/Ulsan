@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "last_ingest": "2026-06-26T00:00:00Z",
+  "last_ingest": "2026-07-03T22:24:37.547Z",
   "sources_processed": [
     "People/김우성 프로필  네이버 검색.md",
     "People/김태선 민주당 의원.md",
@@ -77,7 +77,24 @@
     "산업1/\"울산 석유화학 해법은 전기료 감면·친환경 소재 활성화\".md",
     "산업1/한미 투자협정.md",
     "daily/2026-06-25-ulsan-briefing.md",
-    "AI/데이터센터 비상… 전세계 \"전력 늘리며 탄소 저감할 묘안 찾아라\".md"
+    "AI/데이터센터 비상… 전세계 \"전력 늘리며 탄소 저감할 묘안 찾아라\".md",
+    "0 일반/20260000-인수위-건설주택국.md",
+    "0 일반/20260000-인수위-공보감사권익인권.md",
+    "0 일반/20260000-인수위-기획조정실.md",
+    "0 일반/20260000-인수위-녹지정원국.md",
+    "0 일반/20260000-인수위-문화관광체육국-문화관광재단-도시철도.md",
+    "0 일반/20260000-인수위-상수도사업본부-도시공사-시설공단.md",
+    "0 일반/20260000-인수위-시민건강국-보건환경연구원-120울산민원센터.md",
+    "0 일반/20260000-인수위-시민안전실-소방본부.md",
+    "0 일반/20260000-인수위-울산연구원-울산테크노파크.md",
+    "0 일반/20260000-인수위-정보산업진흥원-경제일자리진흥원-신용보증재단-현안보고.md",
+    "0 일반/20260000-인수위-종합건설본부.md",
+    "0 일반/20260000-인수위-행정국.md",
+    "0 일반/20260000-인수위-환경국.md",
+    "0 일반/20260000-인수위-AI수도추진본부-복지보훈여성국-사회서비스원-보육.md",
+    "교통/트램/트램 재조사.md",
+    "교통/트램/수요 예측 변경.md",
+    "교통/트램/총사업비 증가.md"
   ],
   "pages_created": [
     "entities/김태선.md",
@@ -109,10 +126,228 @@
     "concepts/성과주의-예산.md",
     "concepts/울산-에너지전환.md",
     "concepts/울산-산업전환-정책분석.md",
-    "concepts/울산-KPI성과관리.md"
+    "concepts/울산-KPI성과관리.md",
+    "references/민선9기-인수위-업무보고-인프라안전.md",
+    "references/민선9기-인수위-업무보고-경제산업.md",
+    "references/민선9기-인수위-업무보고-복지문화.md",
+    "references/민선9기-인수위-업무보고-행정혁신.md",
+    "concepts/울산-트램1호선-재검토.md"
   ],
-  "total_sources_in_vault": 76,
+  "total_sources_in_vault": 93,
   "sources_remaining": 0,
   "ingest_complete": true,
-  "note": "Delta ingest 2026-06-26: 35 new sources since 2026-06-17. Key additions: 인수위 5개 실국 업무보고(경제산업실·교통국·AI수도본부·기업투자국·경자청), KPI성과관리 보고서, 석유화학 시장점유율 분석, 피지컬AI 국내기업 현황, 기획조정실 현안. 2 new pages created (민선9기-인수위-업무보고, 울산-KPI성과관리), 5 pages updated (울산-산업전환, 울산-경제이슈-2026, 울산-대중교통, 울산-에너지전환, 김상욱), 1 entity stub (유영준)."
+  "note": "Full ingest batch 1 (2026-07-04): 15개 인수위 부서·기관 업무보고(0 일반, 2026-07-02 배치) + 트램 재조사 리서치메모 3건 ingest. 5개 신규 참조/컨셉 페이지 생성(업무보고 2차 x4 + 트램1호선재검토), entities/김상욱·concepts/울산-산업전환·울산-대중교통 갱신. 김상욱 취임(7/1) 및 1호결재, 조직개편(노동위원회/감사청렴위원회/재정기획관) 반영. 나머지 백로그(0 일반 기타 4건, 교통/AI/복지/산업1 잡문서, daily 브리핑 6건)는 후속 배치 예정.",
+  "manifest_entries": {
+    "0 일반/20260000-인수위-건설주택국.md": {
+      "ingested_at": "2026-07-03T22:24:37.547Z",
+      "size_bytes": 36537,
+      "modified_at": "2026-07-02T06:10:21.099Z",
+      "content_hash": "sha256:bd506f6013a8a3da63f029ddb87df38fa7b2e09c8aa9ce47f86cebec92d0c085",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "references/민선9기-인수위-업무보고-인프라안전.md"
+      ]
+    },
+    "0 일반/20260000-인수위-공보감사권익인권.md": {
+      "ingested_at": "2026-07-03T22:24:37.547Z",
+      "size_bytes": 29224,
+      "modified_at": "2026-07-02T07:37:07.744Z",
+      "content_hash": "sha256:cb531e10436e351286ecd9c10fab31353c53330e59fdabf899098bbfbc01bdee",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "references/민선9기-인수위-업무보고-행정혁신.md"
+      ]
+    },
+    "0 일반/20260000-인수위-기획조정실.md": {
+      "ingested_at": "2026-07-03T22:24:37.547Z",
+      "size_bytes": 40995,
+      "modified_at": "2026-07-02T07:15:25.841Z",
+      "content_hash": "sha256:b4962af67dbb258e01a3c5e1ff7646429cfb8d53d355ce7c4523125a8bdb1003",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "references/민선9기-인수위-업무보고-행정혁신.md"
+      ]
+    },
+    "0 일반/20260000-인수위-녹지정원국.md": {
+      "ingested_at": "2026-07-03T22:24:37.547Z",
+      "size_bytes": 31519,
+      "modified_at": "2026-07-02T11:01:48.279Z",
+      "content_hash": "sha256:dad28b2a2d13019fd22ee89f5cd7595b09c09f821fc219f9dcad53264263e240",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "references/민선9기-인수위-업무보고-인프라안전.md"
+      ]
+    },
+    "0 일반/20260000-인수위-문화관광체육국-문화관광재단-도시철도.md": {
+      "ingested_at": "2026-07-03T22:24:37.547Z",
+      "size_bytes": 47017,
+      "modified_at": "2026-07-02T11:12:49.775Z",
+      "content_hash": "sha256:8d7b0f9f41418a68447b974c9cf8bdc34899e52f3901ec6de928b02a441e3059",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "references/민선9기-인수위-업무보고-복지문화.md",
+        "concepts/울산-트램1호선-재검토.md"
+      ]
+    },
+    "0 일반/20260000-인수위-상수도사업본부-도시공사-시설공단.md": {
+      "ingested_at": "2026-07-03T22:24:37.547Z",
+      "size_bytes": 50591,
+      "modified_at": "2026-07-02T11:40:09.939Z",
+      "content_hash": "sha256:b1b57de113ca1d2156864834e6c31b71f4af3b8ad5a2c2897ce10904a8110c80",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "references/민선9기-인수위-업무보고-인프라안전.md"
+      ]
+    },
+    "0 일반/20260000-인수위-시민건강국-보건환경연구원-120울산민원센터.md": {
+      "ingested_at": "2026-07-03T22:24:37.547Z",
+      "size_bytes": 46731,
+      "modified_at": "2026-07-02T11:32:56.188Z",
+      "content_hash": "sha256:7ba220acc0499fcd3293ebd8513d46b6781a7d13c986d2c21fd9d54fe53700cf",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "references/민선9기-인수위-업무보고-복지문화.md",
+        "entities/김상욱.md"
+      ]
+    },
+    "0 일반/20260000-인수위-시민안전실-소방본부.md": {
+      "ingested_at": "2026-07-03T22:24:37.547Z",
+      "size_bytes": 51222,
+      "modified_at": "2026-07-02T10:28:59.207Z",
+      "content_hash": "sha256:3e6d5d090ff23ed933e78de62f7505bd9fa720106c4f0361d09c0d6e03bceef2",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "references/민선9기-인수위-업무보고-인프라안전.md",
+        "references/민선9기-인수위-업무보고-행정혁신.md",
+        "entities/김상욱.md"
+      ]
+    },
+    "0 일반/20260000-인수위-울산연구원-울산테크노파크.md": {
+      "ingested_at": "2026-07-03T22:24:37.547Z",
+      "size_bytes": 49748,
+      "modified_at": "2026-07-02T12:49:47.497Z",
+      "content_hash": "sha256:c27e33ec0f7d24e963ea8c0b0a51fab9b6bf6179839258d644668c37b16853d7",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "references/민선9기-인수위-업무보고-경제산업.md"
+      ]
+    },
+    "0 일반/20260000-인수위-정보산업진흥원-경제일자리진흥원-신용보증재단-현안보고.md": {
+      "ingested_at": "2026-07-03T22:24:37.547Z",
+      "size_bytes": 47292,
+      "modified_at": "2026-07-02T13:07:53.982Z",
+      "content_hash": "sha256:cee5e50b390b1ce9e4455f1f2c4fb9644bb21178e9c5d33e35442f8619c1ed0a",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "references/민선9기-인수위-업무보고-경제산업.md",
+        "concepts/울산-산업전환.md"
+      ]
+    },
+    "0 일반/20260000-인수위-종합건설본부.md": {
+      "ingested_at": "2026-07-03T22:24:37.547Z",
+      "size_bytes": 37193,
+      "modified_at": "2026-07-02T08:05:06.307Z",
+      "content_hash": "sha256:eca7cfcaf96574270b06f694021bfe4f46f0e12c71f950b8c1e89c40af499dfc",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "references/민선9기-인수위-업무보고-인프라안전.md"
+      ]
+    },
+    "0 일반/20260000-인수위-행정국.md": {
+      "ingested_at": "2026-07-03T22:24:37.547Z",
+      "size_bytes": 35061,
+      "modified_at": "2026-07-02T07:53:00.067Z",
+      "content_hash": "sha256:1fcb80ff370ec9b6731009c924be731d23da7c5625614680e073bfb10d8d3c50",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "references/민선9기-인수위-업무보고-행정혁신.md",
+        "entities/김상욱.md"
+      ]
+    },
+    "0 일반/20260000-인수위-환경국.md": {
+      "ingested_at": "2026-07-03T22:24:37.547Z",
+      "size_bytes": 43739,
+      "modified_at": "2026-07-02T11:01:07.142Z",
+      "content_hash": "sha256:405dd2eb866e81fc0db2f7ffa504c103e3fb1fbd984a013f97a09a086c8b3300",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "references/민선9기-인수위-업무보고-인프라안전.md"
+      ]
+    },
+    "0 일반/20260000-인수위-AI수도추진본부-복지보훈여성국-사회서비스원-보육.md": {
+      "ingested_at": "2026-07-03T22:24:37.547Z",
+      "size_bytes": 44873,
+      "modified_at": "2026-07-02T11:25:55.085Z",
+      "content_hash": "sha256:bdc4d122dfc662db3bb2571bfe449ee52eb84f640c402a3995dc45400f385dfc",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "references/민선9기-인수위-업무보고-복지문화.md",
+        "concepts/울산-산업전환.md"
+      ]
+    },
+    "교통/트램/트램 재조사.md": {
+      "ingested_at": "2026-07-03T22:24:37.547Z",
+      "size_bytes": 12008,
+      "modified_at": "2026-06-30T01:18:08.451Z",
+      "content_hash": "sha256:f970d249502be548f4c9c5446d1bf3b1a9dd386bf6f2dcf7ddfad82d87562114",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-트램1호선-재검토.md"
+      ]
+    },
+    "교통/트램/수요 예측 변경.md": {
+      "ingested_at": "2026-07-03T22:24:37.547Z",
+      "size_bytes": 12386,
+      "modified_at": "2026-06-30T13:56:58.431Z",
+      "content_hash": "sha256:083276ed089e7f32aaf546e59df01b563981545677bde1dcc670b8ddde831132",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-트램1호선-재검토.md"
+      ]
+    },
+    "교통/트램/총사업비 증가.md": {
+      "ingested_at": "2026-07-03T22:24:37.547Z",
+      "size_bytes": 15244,
+      "modified_at": "2026-06-30T14:12:45.333Z",
+      "content_hash": "sha256:6a9d6ff5f517851d518cb3498527be0a0a68758ec65f0807eb0bc9ddfc0de54b",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-트램1호선-재검토.md"
+      ]
+    }
+  }
 }
