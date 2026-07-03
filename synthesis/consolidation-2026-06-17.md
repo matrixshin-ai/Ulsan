@@ -30,11 +30,11 @@ updated: 2026-06-17T00:00:00Z
 
 ### C1. 깨진 위키링크 — `entities/김현.md`
 
-| 위치 | 원본 | 수정 |
+| 위치 | 원본 (수정 전, 존재하지 않는 경로) | 수정 |
 |---|---|---|
-| frontmatter relationships | `[[concepts/수요응답형교통-DRT]]` | `[[concepts/울산-DRT]]` |
-| body 관련 항목 | `[[concepts/수요응답형교통-DRT]]` | `[[concepts/울산-DRT]]` |
-| body 관련 항목 | `[[교통/ulsan_drt_learning_material]]` (소스 파일 직접 링크) | `[[concepts/울산-대중교통]]`으로 교체 |
+| frontmatter relationships | `concepts/수요응답형교통-DRT` | `[[concepts/울산-DRT]]` |
+| body 관련 항목 | `concepts/수요응답형교통-DRT` | `[[concepts/울산-DRT]]` |
+| body 관련 항목 | `교통/ulsan_drt_learning_material` (소스 파일 직접 링크) | `[[concepts/울산-대중교통]]`으로 교체 |
 
 실제 페이지는 `concepts/울산-DRT.md`. `수요응답형교통-DRT` 경로는 존재하지 않음.
 
