@@ -8,3 +8,10 @@
 - [2026-06-17T12:00:00Z] STATUS ingest_complete=true total_sources=41 total_pages=27 sources_remaining=0
 - [2026-06-17T14:00:00Z] LINT_CONSOLIDATE links_fixed=3 orphans_rescued=2 tag_fixes=1 relationship_type_fixes=2 wikilink_format_fixes=1 total_edits=9 open_warns=5(provenance_drift) open_info=4(roadmap) report=synthesis/consolidation-2026-06-17.md
 - [2026-06-26T00:00:00Z] WIKI_UPDATE project=ulsan-vault pages_created=3 pages_updated=5 source_cwd=C:/Users/신민식/Documents/ulsan delta_since=2026-06-17 new_sources=35
+- [2026-07-04T00:00:00Z] INGEST source="0 일반/20260000-인수위-*.md (15개 부서·기관 업무보고)" pages_updated=3 pages_created=4 mode=full batch=1/4
+- [2026-07-04T00:00:00Z] INGEST source="교통/트램/(트램 재조사, 수요 예측 변경, 총사업비 증가)" pages_updated=0 pages_created=1 mode=full batch=1/4
+- [2026-07-04T00:00:00Z] STATUS batch=1/4 complete: 17 sources ingested, pages_created=5(references 4 + concepts 1), pages_updated=3(entities/김상욱, concepts/울산-산업전환, concepts/울산-대중교통), 김상욱 취임(2026-07-01) 및 1호결재·조직개편 반영. 남은 배치: (2) 0 일반 기타 4건, (3) 교통/AI/복지/산업1 잡문서 다수, (4) daily 브리핑 6건(06-26~07-03)
+- [2026-07-04T00:00:00Z] INGEST source="0 일반/(시정계획안 초안, 당선인 AX 업무보고 1차, 도시국 minutes, 취임사·인터뷰)" pages_updated=2 pages_created=0 mode=full batch=2/4
+- [2026-07-04T00:00:00Z] STATUS batch=2/4 complete: 4 sources ingested(1건은 본 위키 재료 2차 파생물이라 신규사실 없음), pages_updated=2(entities/김상욱, concepts/울산-산업전환). 남은 배치: (3) 교통 트램 재조사요청계획.md·DRT·AI/sllm·복지·산업1 txt, (4) daily 브리핑 6건(06-26~07-03)
+- [2026-07-04T00:00:00Z] INGEST source="교통/트램(재조사요청계획), AI기반스마트DRT제안서, 복지(하도급뉴스), 산업1(Policy Analysis txt x2, 중복/인코딩깨짐 스킵), AI/sllm(스킵), Audio/test(스킵), 버스체계MindMap.png(이미지 미열람)" pages_updated=3 pages_created=0 mode=full batch=3/4
+- [2026-07-04T00:00:00Z] STATUS batch=3/4 complete: 8 sources ingested(4건은 스킵/중복 사유 기록), pages_updated=3(concepts/울산-트램1호선-재검토, concepts/울산-DRT, references/민선9기-인수위-업무보고-인프라안전). 남은 배치: (4) daily 브리핑 6건(06-26~07-03)

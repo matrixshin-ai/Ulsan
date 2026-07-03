@@ -94,7 +94,19 @@
     "0 일반/20260000-인수위-AI수도추진본부-복지보훈여성국-사회서비스원-보육.md",
     "교통/트램/트램 재조사.md",
     "교통/트램/수요 예측 변경.md",
-    "교통/트램/총사업비 증가.md"
+    "교통/트램/총사업비 증가.md",
+    "0 일반/김상욱 당선인의 시정 추진계획안 초안 - ChatGPT 작성 답변.md",
+    "0 일반/당선인 AX 업무보고 1차.md",
+    "0 일반/도시국 minutes_reorganized_researched 2.md",
+    "0 일반/울산광역시장 당선인 김상욱입니다..md",
+    "교통/트램/재조사 요청 계획.md",
+    "교통/AI 기반 스마트 DRT_260612_카드형.md",
+    "교통/버스 체계 Mind Map.png",
+    "AI/sllm - Google Search.md",
+    "복지/울산 건설현장 불법 하도급·체불 해소.md",
+    "산업1/Policy Analysis Report(초광역 AI-AX 산업전환 글로벌 표준 허브 구축).txt",
+    "산업1/Policy Analysis Report(초광역 AI-AX 산업전환 글로벌 표준 허브 구축) 1.txt",
+    "Audio/test.md"
   ],
   "pages_created": [
     "entities/김태선.md",
@@ -136,7 +148,7 @@
   "total_sources_in_vault": 93,
   "sources_remaining": 0,
   "ingest_complete": true,
-  "note": "Full ingest batch 1 (2026-07-04): 15개 인수위 부서·기관 업무보고(0 일반, 2026-07-02 배치) + 트램 재조사 리서치메모 3건 ingest. 5개 신규 참조/컨셉 페이지 생성(업무보고 2차 x4 + 트램1호선재검토), entities/김상욱·concepts/울산-산업전환·울산-대중교통 갱신. 김상욱 취임(7/1) 및 1호결재, 조직개편(노동위원회/감사청렴위원회/재정기획관) 반영. 나머지 백로그(0 일반 기타 4건, 교통/AI/복지/산업1 잡문서, daily 브리핑 6건)는 후속 배치 예정.",
+  "note": "Full ingest batch 3 (2026-07-04): 트램 재조사요청계획서, AI기반스마트DRT 제안서, sLLM 검색캡처(스킵), 복지 하도급 뉴스클리핑, 산업1 Policy Analysis Report txt 2건(인코딩깨짐+중복, 스킵), Audio/test.md(테스트파일, 스킵), 버스체계 Mind Map.png(이미지 미열람) ingest. concepts/울산-트램1호선-재검토·울산-DRT, references/민선9기-인수위-업무보고-인프라안전 갱신. 남은 배치: (4) daily 브리핑 6건(06-26~07-03).",
   "manifest_entries": {
     "0 일반/20260000-인수위-건설주택국.md": {
       "ingested_at": "2026-07-03T22:24:37.547Z",
@@ -348,6 +360,144 @@
       "pages_updated": [
         "concepts/울산-트램1호선-재검토.md"
       ]
+    },
+    "0 일반/김상욱 당선인의 시정 추진계획안 초안 - ChatGPT 작성 답변.md": {
+      "ingested_at": "2026-07-03T22:29:21.299Z",
+      "size_bytes": 25235,
+      "modified_at": "2026-06-17T07:26:26.621Z",
+      "content_hash": "sha256:b85adadde8b5a90fc96e345d3268b46ed9465dd5b313e54dedb2152f2b9ee8b2",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "ChatGPT 합성 문서 — 본 위키 자체(GitHub 저장소)를 재료로 재구성한 2차 파생자료. 기존 synthesis 페이지와 대부분 중복, 신규 사실 없음."
+    },
+    "0 일반/당선인 AX 업무보고 1차.md": {
+      "ingested_at": "2026-07-03T22:29:21.299Z",
+      "size_bytes": 43771,
+      "modified_at": "2026-06-26T17:32:42.262Z",
+      "content_hash": "sha256:d1877c3e435fdb1fa8f4e70e75dcb8f7e3fd43c1b490780d222ceeb6b619f510",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-산업전환.md"
+      ]
+    },
+    "0 일반/도시국 minutes_reorganized_researched 2.md": {
+      "ingested_at": "2026-07-03T22:29:21.299Z",
+      "size_bytes": 36486,
+      "modified_at": "2026-07-02T06:08:42.171Z",
+      "content_hash": "sha256:02cd53e15cca08c3900df600af4144a66e23c5f9e2849b4317ed2d2076363a20",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-산업전환.md"
+      ]
+    },
+    "0 일반/울산광역시장 당선인 김상욱입니다..md": {
+      "ingested_at": "2026-07-03T22:29:21.299Z",
+      "size_bytes": 23917,
+      "modified_at": "2026-06-17T07:16:22.630Z",
+      "content_hash": "sha256:0ffd4195e4caf07e8a4f2579f32306adc31d3a5501d2d191a37440232b7fea92",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "entities/김상욱.md"
+      ]
+    },
+    "교통/트램/재조사 요청 계획.md": {
+      "ingested_at": "2026-07-03T22:33:35.131Z",
+      "size_bytes": 19107,
+      "modified_at": "2026-06-30T14:33:45.482Z",
+      "content_hash": "sha256:3b64981153264e7fa48ad64bf7516166ad35e8ddc88eb17f212b97f41ada6a87",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-트램1호선-재검토.md"
+      ]
+    },
+    "교통/AI 기반 스마트 DRT_260612_카드형.md": {
+      "ingested_at": "2026-07-03T22:33:35.131Z",
+      "size_bytes": 11827,
+      "modified_at": "2026-06-14T12:23:33.993Z",
+      "content_hash": "sha256:bca489f4068d890c97964ad40cf468cdad80b2b65aa8b7923657916281cc04ba",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-DRT.md"
+      ]
+    },
+    "교통/버스 체계 Mind Map.png": {
+      "ingested_at": "2026-07-03T22:33:35.131Z",
+      "size_bytes": 617255,
+      "modified_at": "2026-06-14T04:48:12.658Z",
+      "content_hash": "sha256:c99b407779d34b315fb70445ae59abeafb56f68a4fc9cf594fb942210196356b",
+      "source_type": "image",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "이미지 미열람(비전 모델 판독 생략) — 후속 세션에서 필요시 재검토"
+    },
+    "AI/sllm - Google Search.md": {
+      "ingested_at": "2026-07-03T22:33:35.131Z",
+      "size_bytes": 13821,
+      "modified_at": "2026-06-26T09:28:40.203Z",
+      "content_hash": "sha256:f82655af23278dd5a8743159c38f7b9121f6b9aad188f2f6a28dc8f0920d3d0b",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "sLLM 일반 정의 구글 검색 캡처, 울산 특정 사실 없음 — 스킵"
+    },
+    "복지/울산 건설현장 불법 하도급·체불 해소.md": {
+      "ingested_at": "2026-07-03T22:33:35.131Z",
+      "size_bytes": 2100,
+      "modified_at": "2026-06-17T06:05:48.218Z",
+      "content_hash": "sha256:f55ad330bac93e6d5d7b19e27b3742d36fb33d3af377dd5e2217a081682f6883",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "references/민선9기-인수위-업무보고-인프라안전.md"
+      ]
+    },
+    "산업1/Policy Analysis Report(초광역 AI-AX 산업전환 글로벌 표준 허브 구축).txt": {
+      "ingested_at": "2026-07-03T22:33:35.131Z",
+      "size_bytes": 31312,
+      "modified_at": "2026-06-16T11:00:26.909Z",
+      "content_hash": "sha256:d2cfeb950c0a281821b3d7c66f458356ca31c156b59a981ac705d62226a16466",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "인코딩 깨짐(EUC-KR/UTF-8 mojibake), 동일 주제의 references/초광역-AI-AX.md가 이미 .md 소스로 충분히 커버 — 스킵"
+    },
+    "산업1/Policy Analysis Report(초광역 AI-AX 산업전환 글로벌 표준 허브 구축) 1.txt": {
+      "ingested_at": "2026-07-03T22:33:35.131Z",
+      "size_bytes": 31312,
+      "modified_at": "2026-06-16T11:01:46.331Z",
+      "content_hash": "sha256:d2cfeb950c0a281821b3d7c66f458356ca31c156b59a981ac705d62226a16466",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "위 파일과 100% 동일한 중복 파일 — 스킵"
+    },
+    "Audio/test.md": {
+      "ingested_at": "2026-07-03T22:33:35.131Z",
+      "size_bytes": 4,
+      "modified_at": "2026-07-02T10:27:03.341Z",
+      "content_hash": "sha256:9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "내용 \"test\" 4바이트, 실제 콘텐츠 아님 — 스킵"
     }
   }
 }
