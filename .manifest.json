@@ -154,7 +154,7 @@
   "total_sources_in_vault": 93,
   "sources_remaining": 0,
   "ingest_complete": true,
-  "note": "Full ingest batch 4 (2026-07-04): daily 브리핑 6건(06-26,06-29,06-30,07-01,07-02,07-03) ingest. 정부 3대 메가프로젝트(800조 반도체) 및 대응 투자(현대차42조/삼성60조/SK140조/삼성SDI16조), 김상욱 취임식(2026-07-01, 이재명 대통령 축하)과 취임 첫날 조치, 장생포 수소트램 재검토·공업탑로터리 사업 중단·9대 시의회 공론화위 조례를 synthesis/울산-경제이슈-2026, concepts/울산-트램1호선-재검토, entities/김상욱에 반영. Batch 1~4 전체 완료.",
+  "note": "ingest 명령 실행 (2026-07-04): daily 브리핑 5건(06-26,06-29,06-30,07-01,07-02)을 전문 재열람하여 심화 ingest — 이전 batch에서는 grep 발췌만 했던 것을 보완. 신규 반영: CBSI/BSI/GRDP/광공업생산/수출 등 거시지표, 전세난 심화, 웅촌곡천지구·야음지구 장기표류, 9대 시의회 원구성 확정(이영해 의장), 인수위 민선8기 사업 7건 폐지·재검토 확정, 에쓰오일 샤힌=석유화학 구조조정 마지막 변수, 노동계 하투 확대(플랜트노조 8월 총파업). synthesis/울산-정치지형.md에서 김상욱을 국민의힘/민선8기로 잘못 기재한 stale 오류 발견·수정.",
   "manifest_entries": {
     "0 일반/20260000-인수위-건설주택국.md": {
       "ingested_at": "2026-07-03T22:24:37.547Z",
@@ -506,7 +506,7 @@
       "note": "내용 \"test\" 4바이트, 실제 콘텐츠 아님 — 스킵"
     },
     "daily/2026-06-26-ulsan-briefing.md": {
-      "ingested_at": "2026-07-03T22:35:30.583Z",
+      "ingested_at": "2026-07-03T23:46:56.482Z",
       "size_bytes": 34346,
       "modified_at": "2026-06-30T01:14:37.801Z",
       "content_hash": "sha256:9b4c6424c6f49666697257df4f3f3bdca89202de3218c6c1eb5366f80d11689f",
@@ -514,12 +514,14 @@
       "project": null,
       "pages_created": [],
       "pages_updated": [
-        "concepts/울산-트램1호선-재검토.md"
+        "references/울산-부동산-현황.md",
+        "references/울산-도시개발.md",
+        "entities/UNIST.md"
       ],
-      "note": "daily briefing(자동생성 뉴스 다이제스트) — 07-03은 전문 열람, 나머지 5건은 핵심어(취임/1호결재/트램/공론화/투자) grep 기반 발췌 처리"
+      "note": "전문 재열람으로 심화 ingest (이전 grep 발췌 처리를 대체)"
     },
     "daily/2026-06-29-ulsan-briefing.md": {
-      "ingested_at": "2026-07-03T22:35:30.583Z",
+      "ingested_at": "2026-07-03T23:46:56.482Z",
       "size_bytes": 34064,
       "modified_at": "2026-07-01T23:45:01.874Z",
       "content_hash": "sha256:9cd810bac34a25044d17b4a412bc00ffb3bf097393872a3adafbdce0c6d1b652",
@@ -527,13 +529,13 @@
       "project": null,
       "pages_created": [],
       "pages_updated": [
-        "synthesis/울산-경제이슈-2026.md",
-        "concepts/울산-트램1호선-재검토.md"
+        "references/울산-도시개발.md",
+        "synthesis/울산-정치지형.md"
       ],
-      "note": "daily briefing(자동생성 뉴스 다이제스트) — 07-03은 전문 열람, 나머지 5건은 핵심어(취임/1호결재/트램/공론화/투자) grep 기반 발췌 처리"
+      "note": "전문 재열람으로 심화 ingest (이전 grep 발췌 처리를 대체)"
     },
     "daily/2026-06-30-ulsan-briefing.md": {
-      "ingested_at": "2026-07-03T22:35:30.583Z",
+      "ingested_at": "2026-07-03T23:46:56.482Z",
       "size_bytes": 34099,
       "modified_at": "2026-06-30T16:29:00.089Z",
       "content_hash": "sha256:e140efd6eda8ca2f6c3f1f5c97f8abe4ac7bf714a372b43ad1febaffaf9c73ab",
@@ -541,13 +543,15 @@
       "project": null,
       "pages_created": [],
       "pages_updated": [
+        "references/울산-부동산-현황.md",
         "synthesis/울산-경제이슈-2026.md",
-        "concepts/울산-트램1호선-재검토.md"
+        "synthesis/울산-정치지형.md",
+        "concepts/울산-산업전환.md"
       ],
-      "note": "daily briefing(자동생성 뉴스 다이제스트) — 07-03은 전문 열람, 나머지 5건은 핵심어(취임/1호결재/트램/공론화/투자) grep 기반 발췌 처리"
+      "note": "전문 재열람으로 심화 ingest (이전 grep 발췌 처리를 대체)"
     },
     "daily/2026-07-01-ulsan-briefing.md": {
-      "ingested_at": "2026-07-03T22:35:30.583Z",
+      "ingested_at": "2026-07-03T23:46:56.482Z",
       "size_bytes": 34086,
       "modified_at": "2026-07-02T00:03:41.748Z",
       "content_hash": "sha256:41c705417ccea6e33dd7912f94ac928aec37333359ad091819f3a3b640ef7727",
@@ -555,13 +559,14 @@
       "project": null,
       "pages_created": [],
       "pages_updated": [
-        "entities/김상욱.md",
-        "synthesis/울산-경제이슈-2026.md"
+        "synthesis/울산-경제이슈-2026.md",
+        "synthesis/울산-정치지형.md",
+        "entities/UNIST.md"
       ],
-      "note": "daily briefing(자동생성 뉴스 다이제스트) — 07-03은 전문 열람, 나머지 5건은 핵심어(취임/1호결재/트램/공론화/투자) grep 기반 발췌 처리"
+      "note": "전문 재열람으로 심화 ingest (이전 grep 발췌 처리를 대체)"
     },
     "daily/2026-07-02-ulsan-briefing.md": {
-      "ingested_at": "2026-07-03T22:35:30.583Z",
+      "ingested_at": "2026-07-03T23:46:56.482Z",
       "size_bytes": 34728,
       "modified_at": "2026-07-02T16:10:38.987Z",
       "content_hash": "sha256:696bf8221f87698397d77fe5d2aa2846558c928e88fde17f35a88e1f8f43a5c8",
@@ -569,10 +574,11 @@
       "project": null,
       "pages_created": [],
       "pages_updated": [
-        "entities/김상욱.md",
-        "concepts/울산-트램1호선-재검토.md"
+        "synthesis/울산-경제이슈-2026.md",
+        "synthesis/울산-정치지형.md",
+        "concepts/울산-산업전환.md"
       ],
-      "note": "daily briefing(자동생성 뉴스 다이제스트) — 07-03은 전문 열람, 나머지 5건은 핵심어(취임/1호결재/트램/공론화/투자) grep 기반 발췌 처리"
+      "note": "전문 재열람으로 심화 ingest (이전 grep 발췌 처리를 대체)"
     },
     "daily/2026-07-03-ulsan-briefing.md": {
       "ingested_at": "2026-07-03T22:35:30.583Z",
