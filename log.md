@@ -15,3 +15,5 @@
 - [2026-07-04T00:00:00Z] STATUS batch=2/4 complete: 4 sources ingested(1건은 본 위키 재료 2차 파생물이라 신규사실 없음), pages_updated=2(entities/김상욱, concepts/울산-산업전환). 남은 배치: (3) 교통 트램 재조사요청계획.md·DRT·AI/sllm·복지·산업1 txt, (4) daily 브리핑 6건(06-26~07-03)
 - [2026-07-04T00:00:00Z] INGEST source="교통/트램(재조사요청계획), AI기반스마트DRT제안서, 복지(하도급뉴스), 산업1(Policy Analysis txt x2, 중복/인코딩깨짐 스킵), AI/sllm(스킵), Audio/test(스킵), 버스체계MindMap.png(이미지 미열람)" pages_updated=3 pages_created=0 mode=full batch=3/4
 - [2026-07-04T00:00:00Z] STATUS batch=3/4 complete: 8 sources ingested(4건은 스킵/중복 사유 기록), pages_updated=3(concepts/울산-트램1호선-재검토, concepts/울산-DRT, references/민선9기-인수위-업무보고-인프라안전). 남은 배치: (4) daily 브리핑 6건(06-26~07-03)
+- [2026-07-04T00:00:00Z] INGEST source="daily/2026-06-26,06-29,06-30,07-01,07-02,07-03-ulsan-briefing.md" pages_updated=3 pages_created=0 mode=full batch=4/4
+- [2026-07-04T00:00:00Z] STATUS batch=4/4 complete: 6 daily briefing 소스 ingest(07-03 전문열람, 나머지 5건 핵심어 발췌), pages_updated=3(synthesis/울산-경제이슈-2026, concepts/울산-트램1호선-재검토, entities/김상욱). 김상욱 취임식(07-01)·정부 3대 메가프로젝트(800조 반도체+영남권 대응투자 258조)·장생포 수소트램 재검토·9대 시의회 공론화위 조례 반영. **전체 배치(1~4) 완료** — 총 111개 소스 ingest.
