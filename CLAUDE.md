@@ -20,12 +20,15 @@
    - mtime은 판정 기준으로 쓰지 않는다.
 2. 대상 제외: `entities/`, `concepts/`, `references/`, `synthesis/`는 산출물이다. `daily/`는 읽기 전용 폴더이며 ingest하지 않는다. 이 폴더들은 판정과 읽기 대상에서 모두 빠진다.
 3. 핵심 엔티티(인물·기관·사업 등)와 개념을 추출한다.
-3. 한국어 요약 페이지를 내용 성격에 맞는 폴더에 작성한다:
+4. 한국어 요약 페이지를 내용 성격에 맞는 폴더에 작성한다:
    - 인물·기관·사업 주체 → `entities/`
    - 개념·구조·정책 메커니즘 → `concepts/`
    - 단일 자료·기록의 정리본 → `references/`
    - 여러 소스를 엮은 종합 분석 → `synthesis/`
-4. `index.md`를 갱신한다.
+5. `index.md`를 갱신한다.
+6. 실행이 끝날 때마다 기록한다:
+   - `.manifest.json`: 미처리·변경으로 판정된 파일(형식 미지원 등으로 읽지 못한 파일 포함)마다 `manifest_entries`에 `ingested_at`, `size_bytes`, `modified_at`, 현재 `content_hash`, `pages_created`, `pages_updated`를 쓰고, 읽지 못했거나 반영할 내용이 없으면 사유를 `note`에 단다. 해시가 같아 스킵한 파일의 항목은 건드리지 않는다. `last_ingest`, `sources_processed`, `pages_created`도 같이 갱신한다. glob 같은 묶음 키는 쓰지 않고 파일 하나에 항목 하나를 둔다.
+   - `log.md`: `INGEST` 줄(소스, pages_created/updated 수, 스킵 사유)과 `STATUS` 줄을 기존 형식대로 덧붙인다.
 
 ### "lint"
 `entities/`, `concepts/`, `references/`, `synthesis/`를 점검하고 다음을 보고한다 (수정하지 않고 보고만 한다):
