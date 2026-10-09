@@ -13,8 +13,13 @@
 ## 명령어
 
 ### "ingest"
-1. vault 내 아직 처리되지 않은 파일을 모두 읽는다 (`entities/`, `concepts/`, `references/`, `synthesis/`, `daily/`는 소스가 아니라 산출물/제외 대상이므로 읽기 대상에서 제외).
-2. 핵심 엔티티(인물·기관·사업 등)와 개념을 추출한다.
+1. 처리 대상 파일을 판정한다. 기준은 `.manifest.json`의 `manifest_entries`에 기록된 `content_hash`(`sha256:` + 파일 원본 바이트의 SHA-256)다:
+   - **미처리**: `manifest_entries`에 해당 파일의 `content_hash`가 없다 → 읽고 ingest한다.
+   - **변경**: 저장된 `content_hash`와 현재 파일 해시가 다르다 → 다시 읽고 ingest한다.
+   - **스킵**: 해시가 같다 → 변경이 없으므로 읽지 않는다.
+   - mtime은 판정 기준으로 쓰지 않는다.
+2. 대상 제외: `entities/`, `concepts/`, `references/`, `synthesis/`는 산출물이다. `daily/`는 읽기 전용 폴더이며 ingest하지 않는다. 이 폴더들은 판정과 읽기 대상에서 모두 빠진다.
+3. 핵심 엔티티(인물·기관·사업 등)와 개념을 추출한다.
 3. 한국어 요약 페이지를 내용 성격에 맞는 폴더에 작성한다:
    - 인물·기관·사업 주체 → `entities/`
    - 개념·구조·정책 메커니즘 → `concepts/`
