@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "last_ingest": "2026-07-26T00:00:00.000Z",
+  "last_ingest": "2026-10-11T14:00:00.000Z",
   "sources_processed": [
     "People/김우성 프로필  네이버 검색.md",
     "People/김태선 민주당 의원.md",
@@ -180,7 +180,142 @@
     "교통/트램/20231023-울산도시철도1호선-타당성재조사_재정리MD/27_제8장_정책성분석1.md",
     "교통/트램/20231023-울산도시철도1호선-타당성재조사_재정리MD/28_제8장_정책성분석2.md",
     "교통/트램/20231023-울산도시철도1호선-타당성재조사_재정리MD/29_제9장_지역균형발전분석.md",
-    "교통/트램/20231023-울산도시철도1호선-타당성재조사_재정리MD/30_제10장_종합평가_및_정책제언.md"
+    "교통/트램/20231023-울산도시철도1호선-타당성재조사_재정리MD/30_제10장_종합평가_및_정책제언.md",
+    "당장할일.md",
+    "무제.canvas",
+    "0 말말말/20261005-사우디 투자 협의C.md",
+    "0 말말말/20261005-시장지시C.md",
+    "0 말말말/20261005-울산 남신항 에너지허브 개발C.md",
+    "0 말말말/202610_경제국 감사관실 주요업무회의_시장_직접지시사항.md",
+    "0 말말말/2027년_주요업무계획회의_시장_직접지시사항.md",
+    "0 말말말/261002 시장지시.md",
+    "0 시장지시/10월 시장 지시.md",
+    "0 시장지시/20261005 시장 철학 수첩에서 발췌.md",
+    "0 시장지시/20261005-시장지시C_시장_직접지시사항.md",
+    "0 일반/0 당장할일.md",
+    "0 일반/20260000-인수위-문화예술인-간담회.md",
+    "1 회의/20261005-시장지시C_재정리.md",
+    "1 회의/202610_울산광역시_주요업무회의_유튜브전사_재정리.md",
+    "1 회의/2027년_주요업무계획회의_경제자유구역청_문화관광체육국_재정리.md",
+    "1 회의/2027업무보고_권익인권담당관실_분권인구정책국_재정리본.md",
+    "1 회의/260716 주요 현안 점검회의 발언 재정리.md",
+    "1 회의/260820_실국장회의자료_텍스트전환.md",
+    "1 회의/260903_실국장회의_자료_텍스트전환.md",
+    "1 회의/260909_주간업무회의_자료_텍스트전환.md",
+    "1 회의/260915_실국장회의_자료_텍스트전환.md",
+    "1 회의/260916 김상욱_울산시장_시의회_답변_항목별_재정리.md",
+    "AI/2026_울산포럼_제조AX_세션_재정리.md",
+    "AI/2027년도_주요업무계획_AI혁신산업실_상세정리.md",
+    "AI/3대 메가 프로젝트 대응방안 보고회.md",
+    "AI/SX, DX, AX, QX.md",
+    "AI/산업 AX 정책협의회.md",
+    "AI/산업AX_현안사업_추진상황_점검회의_텍스트전환.md",
+    "AI/울산 행정 AI - 직원 AI 교육.md",
+    "AI/철의장 디지털트위 계기 간담회.md",
+    "AI/헤커톤.md",
+    "Clippings/HD현대중공업 등 12개 기관, 해양 SMR(소형모듈원자로) 상용화 협력.md",
+    "Clippings/기고 울산 부동산은 왜 ‘울산 전체’로 보면 안 되는가.md",
+    "Clippings/울산페이 혜택 늘리자 비만치료제 싸게 살 기회.md",
+    "경제국/06_2027년도 주요업무계획(경제국).md",
+    "교통/260921 2027년도 주요업무계획(교통국)v7_최종.md",
+    "뉴스/AX/전남광주서 AI 학습·울산서 주행 검증…미래차 ‘초광역 협력’ 구체화.md",
+    "뉴스/교육/울산과학대, 수시1차 경쟁률 9.99대1…반도체공학과 최고.md",
+    "도시/2027년도_주요업무계획_도시국_상세텍스트화.md",
+    "도시/공공임대주택.md",
+    "문화/공약7-6_학교_실내체육관_개방_지원사업_추진계획_텍스트전환.md",
+    "문화/문화관광체육국_신임경제부시장_업무보고_변환.md",
+    "문화/울산 문화정책 진단 및 구조개편 방향.md",
+    "산업1/5극3특_성장엔진_육성전략_회의자료_텍스트정리.md",
+    "산업1/HD현대중, AI전력·SMR 거점 구축 1조 투자.md",
+    "산업1/석화 구조조정 마지막 퍼즐 울산…‘감축만으론 안 풀린다’.md",
+    "산업1/울산_암모니아_누출사고_이슈정리.md",
+    "산업1/이 대통령 중동 원유 의존도 50%대로 낮춰…유가 걱정 없다.md",
+    "재정/BTO BTL.md",
+    "재정/미래대응기금_텍스트전환.md",
+    "파일전환/(260921) 2027년 주요업무계획(녹지정원국) 제출 인쇄.md",
+    "파일전환/04_2027년도 주요업무계획(AI혁신산업실) (1).md",
+    "파일전환/08_2027년도 주요업무계획(권익인권담당관).md",
+    "파일전환/08_2027년도 주요업무계획(분권인구정책국) v8.md",
+    "파일전환/09_2027년도 주요업무계획(보건환경연구원).md",
+    "파일전환/09_2027년도 주요업무계획(소방본부).md",
+    "파일전환/20261004 ★ 2_1 (보고) 브리핑 계획서_남신항 에너지허브 2단계(경제부시장).md",
+    "파일전환/20261004 ★ 2_2 기자 회견문_남신항 에너지허브 2단계(경제부시장).md",
+    "파일전환/20261004 ★ 2_3 보도자료 울산시,‘남신항 에너지허브 2단계’본격 추진(공보관실 검수).md",
+    "파일전환/20261004 ★ 2_4 참고자료_남신항 에너지허브 2단계(경제부시장).md",
+    "파일전환/20261005-사우디 투자 협의C.md",
+    "파일전환/20261005-시장지시C.md",
+    "파일전환/20261005-울산 남신항 에너지허브 개발C.md",
+    "파일전환/2026년 2분기 지역내총생산(GRDP) 결과.md",
+    "파일전환/2027년도 주요업무계획 보고회 9차(10. 6.)_소방본부 및 보건환경연구원.md",
+    "파일전환/26 09 18 부시장님 주재 성장엔진 앵커기업 회의 자료v1(회의 탁자비치용)(최종).md",
+    "파일전환/260915 실국장회의 자료v3-압축.md",
+    "파일전환/260918 5극3특 성장엔진 육성 앵커기업 회의 개최 계획(초안, 기념촬영 포함)(최종).md",
+    "파일전환/261002 더불어민주당-울산광역시 예산정책협의회 개최 계획v15★.md",
+    "파일전환/261002 더불어민주당-울산시 예정협 우선순위 및 지역현안 사업 회의자료v8(완전최종★★★).md",
+    "파일전환/★ 2026년 중동 투자유치단 파견 계획(요약).md",
+    "파일전환/★1. 2027년도 주요업무계획(도시국)- 발간용-수정_압축.md",
+    "파일전환/★10월 월간 좌석배치도v3.md",
+    "파일전환/★10월 월간+4분기 공공기관 주요업무계획v2.md",
+    "파일전환/★2026년 중동 투자유치단 파견 계획.md",
+    "파일전환/★260917 경주시장 내방 참고자료(울산용).md",
+    "파일전환/대면결재리스트(10.1.) 0930 18시 기준.md",
+    "파일전환/동북아 에너지허브 추진 상황-에너지산업과 자료.md",
+    "파일전환/동북아 에너지허브 투자 및 협력 제안서(사우디)-에너지산업과 자료.md",
+    "파일전환/동북아 에너지허브 투자제안(아람코)-에너지산업과 자료.md",
+    "파일전환/전세가격 및 집값 상승에 따른 주거안정대책 보고(건축정책과).md",
+    "환경과 녹지/260826_여천배수장_유수지_악취문제_해결_현안보고_텍스트전환.md",
+    "환경과 녹지/260915_국제정원박람회_TF_추진상황_보고회_회의자료_텍스트전환.md",
+    "환경과 녹지/국제정원박람회 관련 전문가 자문위원회.md",
+    "환경과 녹지/상수도.md",
+    "daily/2026-07-27-ulsan-briefing.md",
+    "daily/2026-07-28-ulsan-briefing.md",
+    "daily/2026-07-29-ulsan-briefing.md",
+    "daily/2026-07-30-ulsan-briefing.md",
+    "daily/2026-07-31-ulsan-briefing.md",
+    "daily/2026-08-03-ulsan-briefing.md",
+    "daily/2026-08-04-ulsan-briefing.md",
+    "daily/2026-08-05-ulsan-briefing.md",
+    "daily/2026-08-07-ulsan-briefing.md",
+    "daily/2026-08-10-ulsan-briefing.md",
+    "daily/2026-08-11-ulsan-briefing.md",
+    "daily/2026-08-12-ulsan-briefing.md",
+    "daily/2026-08-13-ulsan-briefing.md",
+    "daily/2026-08-14-ulsan-briefing.md",
+    "daily/2026-08-17-ulsan-briefing.md",
+    "daily/2026-08-18-ulsan-briefing.md",
+    "daily/2026-08-19-ulsan-briefing.md",
+    "daily/2026-08-20-ulsan-briefing.md",
+    "daily/2026-08-21-ulsan-briefing.md",
+    "daily/2026-08-24-ulsan-briefing.md",
+    "daily/2026-08-25-ulsan-briefing.md",
+    "daily/2026-08-26-ulsan-briefing.md",
+    "daily/2026-09-01-ulsan-briefing.md",
+    "daily/2026-09-02-ulsan-briefing.md",
+    "daily/2026-09-03-ulsan-briefing.md",
+    "daily/2026-09-04-ulsan-briefing.md",
+    "daily/2026-09-07-ulsan-briefing.md",
+    "daily/2026-09-08-ulsan-briefing.md",
+    "daily/2026-09-09-ulsan-briefing.md",
+    "daily/2026-09-10-ulsan-briefing.md",
+    "daily/2026-09-11-ulsan-briefing.md",
+    "daily/2026-09-15-ulsan-briefing.md",
+    "daily/2026-09-16-ulsan-briefing.md",
+    "daily/2026-09-17-ulsan-briefing.md",
+    "daily/2026-09-18-ulsan-briefing.md",
+    "daily/2026-09-22-ulsan-briefing.md",
+    "daily/2026-09-23-ulsan-briefing.md",
+    "daily/2026-09-24-ulsan-briefing.md",
+    "daily/2026-09-25-ulsan-briefing.md",
+    "daily/2026-09-28-ulsan-briefing.md",
+    "daily/2026-09-29-ulsan-briefing.md",
+    "daily/2026-09-30-ulsan-briefing.md",
+    "daily/2026-10-01-ulsan-briefing.md",
+    "daily/2026-10-02-ulsan-briefing.md",
+    "daily/2026-10-05-ulsan-briefing.md",
+    "daily/2026-10-06-ulsan-briefing.md",
+    "daily/2026-10-07-ulsan-briefing.md",
+    "daily/2026-10-08-ulsan-briefing.md",
+    "daily/2026-10-09-ulsan-briefing.md"
   ],
   "pages_created": [
     "entities/김태선.md",
@@ -221,12 +356,24 @@
     "references/민선9기-7월정례회의-현안.md",
     "references/울산신용보증재단-사옥매입-논란.md",
     "entities/한신공영.md",
-    "entities/현대로템.md"
+    "entities/현대로템.md",
+    "concepts/울산-동북아-에너지허브.md",
+    "references/민선9기-10월-주요업무회의-시장지시.md",
+    "references/민선9기-2027-주요업무계획.md",
+    "references/울산-문화관광체육-정책.md",
+    "references/민선9기-실국장회의-2026-08-09.md",
+    "concepts/5극3특-성장엔진.md",
+    "concepts/민간투자사업-방식.md",
+    "references/울산-미래대응기금.md",
+    "references/울산-국제정원박람회.md",
+    "references/민주당-울산시-예산정책협의회-2026.md",
+    "concepts/울산-광역협력.md",
+    "concepts/공공기관-기능개혁-2차이전.md"
   ],
-  "total_sources_in_vault": 178,
+  "total_sources_in_vault": 311,
   "sources_remaining": 0,
   "ingest_complete": true,
-  "note": "append-mode 배치 ingest 실행 (2026-07-26): last_ingest(2026-07-03) 이후 daily 브리핑 15건(07-06~07-24)을 전문 열람해 심화 반영 — 현대차/HD현대중공업 노사 갈등 심화(로봇 도입 쟁점화·노란봉투법 사용자성 확대판정·2년연속 파업), 여천NCC-롯데케미칼 여수 통합승인(울산은 미승인 상태 재확인), 부동산 지표 갱신(낙찰가율 94.7%·5대광역시 상승률1위·남구vs중동구 양극화·홈플러스 매각/휴업), 울산산업AX협의체 출범(7/9, 13개기관)·1+1GW 데이터센터 유치전·S-OIL/SK 본사이전 제안·스칼라 울산캠퍼스 개소, 시금고 예금금리 인상 약정(7/21), 부유식해상풍력 이슈리포트(전국 신재생 발전량 1.1%), 트램 신규 리서치메모(시나리오별 손실보상 55~330억) 및 인수위 최종활동 종료(시내버스 9개노선·87대 증차, 수소트램·학성물길 폐지 제안)·여소야대 시의회 공론화조례 부결·시장-시의회 유튜브 갈등 전면전. 트램 챕터 30건(01~30)·사업비재추계 7건·인수위 20260000-*.md 7건 등은 git diff로 재확인한 결과 07-04~07-17 기존 세션에서 이미 반영된 마크다운 서식변경(**,==)뿐이라 신규 사실 없음 — 페이지 수정 없이 manifest만 정합화. .hwpx 1건·PDF 1건은 형식상 스킵(사유는 report 참조). 특기사항: 이번 세션에서 .manifest.json이 last_ingest=07-03 이후 log.md에 기록된 07-04/07-10/07-17 세 차례 세션 결과를 반영하지 못한 정합성 gap을 발견 — 이번 배치는 그 이후(07-26 기준)의 신규/미확인 소스만 처리했으며, 07-04~07-17 사이 소스의 manifest_entries 소급 백필은 범위 밖으로 남겨둠(log.md에는 이미 기록되어 있음). [2026-10-09 백필] 07-04 세션 항목은 이미 완전(ingested_at UTC 07-03T22시 = KST 07-04)함을 확인. 07-10·07-17 세션 소스 19건의 ingested_at·pages_* 귀속을 바로잡고, 타당성재조사 재정리MD glob 항목을 31개 파일별 해시 항목으로 분리, 누락된 pages_created 4건 추가. [2026-10-09 백필2] 해시 없던 06월 소스 60건에 content_hash 기록(06-26 git 버전 37건, 현재 파일 23건), 경로 정정 15건, 삭제 파일 1건 표시. .hwpx·PDF 해시 기록. daily/는 ingest 제외라 대상 아님.",
+  "note": "ingest 2026-10-11(2차): CLAUDE.md 개정으로 daily/를 ingest 대상에 포함. 해시 판정 결과 daily 62건(미처리 59, 변경 3), 나머지 249건 스킵. 신규 페이지 1(concepts/공공기관-기능개혁-2차이전), 기존 16개 페이지 갱신. 7/27~10/9 브리핑 중심: 현대차·HD현중 임단협, 공공기관 기능개혁(석유공사·동서발전·UPA 통폐합), 트램 재개, 버스 공영제, 내와리 불법매립, 국비 3조, 김상욱 시장 의혹·재산, 박람회 준비. 이전 ingest(같은 날 1차) note: 신규 86·변경 35 처리, 신규 페이지 11.",
   "manifest_entries": {
     "0 일반/20260000-인수위-건설주택국.md": {
       "ingested_at": "2026-07-03T22:24:37.547Z",
@@ -265,54 +412,52 @@
       ]
     },
     "0 일반/20260000-인수위-녹지정원국.md": {
-      "ingested_at": "2026-07-03T22:24:37.547Z",
-      "size_bytes": 31519,
-      "modified_at": "2026-07-02T11:01:48.279Z",
-      "content_hash": "sha256:dad28b2a2d13019fd22ee89f5cd7595b09c09f821fc219f9dcad53264263e240",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 31580,
+      "modified_at": "2026-07-11T17:59:28.055Z",
+      "content_hash": "sha256:12f7142187470134be0f6dc6e44e87d82b76d3596602657bcc3fa2262cdc9f60",
       "source_type": "document",
       "project": null,
-      "pages_created": [],
+      "pages_created": [
+        "references/울산-국제정원박람회.md"
+      ],
       "pages_updated": [
         "references/민선9기-인수위-업무보고-인프라안전.md"
-      ]
+      ],
+      "note": "줄바꿈/서식 변경 외 실질 변경은 박람회 총사업비 표기 490→500억 원 수정. 신규 페이지에 반영"
     },
     "0 일반/20260000-인수위-문화관광체육국-문화관광재단-도시철도.md": {
-      "ingested_at": "2026-07-03T22:24:37.547Z",
-      "size_bytes": 47017,
-      "modified_at": "2026-07-02T11:12:49.775Z",
-      "content_hash": "sha256:8d7b0f9f41418a68447b974c9cf8bdc34899e52f3901ec6de928b02a441e3059",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 47570,
+      "modified_at": "2026-07-11T18:51:02.772Z",
+      "content_hash": "sha256:9678d3f1fc1f1ed527d797edfcf836d13e3ac192958e177b19912774eec743f9",
       "source_type": "document",
       "project": null,
       "pages_created": [],
-      "pages_updated": [
-        "references/민선9기-인수위-업무보고-복지문화.md",
-        "concepts/울산-트램1호선-재검토.md"
-      ]
+      "pages_updated": [],
+      "note": "줄바꿈/서식 변경만, 신규 사실 없음"
     },
     "0 일반/20260000-인수위-상수도사업본부-도시공사-시설공단.md": {
-      "ingested_at": "2026-07-03T22:24:37.547Z",
-      "size_bytes": 50591,
-      "modified_at": "2026-07-02T11:40:09.939Z",
-      "content_hash": "sha256:b1b57de113ca1d2156864834e6c31b71f4af3b8ad5a2c2897ce10904a8110c80",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 50664,
+      "modified_at": "2026-07-11T19:04:07.448Z",
+      "content_hash": "sha256:c5c74c0c0d821ae417d4990d0ec211cb57233278e7fe58bb187b851270712609",
       "source_type": "document",
       "project": null,
       "pages_created": [],
-      "pages_updated": [
-        "references/민선9기-인수위-업무보고-인프라안전.md"
-      ]
+      "pages_updated": [],
+      "note": "문장 1곳 수정(고래수 수질 비교 관련 문구). 신규 사실 없음"
     },
     "0 일반/20260000-인수위-시민건강국-보건환경연구원-120울산민원센터.md": {
-      "ingested_at": "2026-07-03T22:24:37.547Z",
-      "size_bytes": 46731,
-      "modified_at": "2026-07-02T11:32:56.188Z",
-      "content_hash": "sha256:7ba220acc0499fcd3293ebd8513d46b6781a7d13c986d2c21fd9d54fe53700cf",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 46783,
+      "modified_at": "2026-07-11T19:25:15.957Z",
+      "content_hash": "sha256:5e58e19219c43d3ca5481ff59087cbea7eaddab08ef9d5069110399357c78de3",
       "source_type": "document",
       "project": null,
       "pages_created": [],
-      "pages_updated": [
-        "references/민선9기-인수위-업무보고-복지문화.md",
-        "entities/김상욱.md"
-      ]
+      "pages_updated": [],
+      "note": "줄바꿈/서식 변경만, 신규 사실 없음"
     },
     "0 일반/20260000-인수위-시민안전실-소방본부.md": {
       "ingested_at": "2026-07-03T22:24:37.547Z",
@@ -329,41 +474,37 @@
       ]
     },
     "0 일반/20260000-인수위-울산연구원-울산테크노파크.md": {
-      "ingested_at": "2026-07-03T22:24:37.547Z",
-      "size_bytes": 49748,
-      "modified_at": "2026-07-02T12:49:47.497Z",
-      "content_hash": "sha256:c27e33ec0f7d24e963ea8c0b0a51fab9b6bf6179839258d644668c37b16853d7",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 50015,
+      "modified_at": "2026-07-11T19:36:35.875Z",
+      "content_hash": "sha256:5dfc247bc90af23cc1397a80a15f8e7f01453352881c54e44eb804944eaa3f9d",
       "source_type": "document",
       "project": null,
       "pages_created": [],
-      "pages_updated": [
-        "references/민선9기-인수위-업무보고-경제산업.md"
-      ]
+      "pages_updated": [],
+      "note": "오탈자 수정(신부름꾼→심부름꾼)·서식 변경만, 신규 사실 없음"
     },
     "0 일반/20260000-인수위-정보산업진흥원-경제일자리진흥원-신용보증재단-현안보고.md": {
-      "ingested_at": "2026-07-03T22:24:37.547Z",
-      "size_bytes": 47292,
-      "modified_at": "2026-07-02T13:07:53.982Z",
-      "content_hash": "sha256:cee5e50b390b1ce9e4455f1f2c4fb9644bb21178e9c5d33e35442f8619c1ed0a",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 47484,
+      "modified_at": "2026-07-11T19:45:33.741Z",
+      "content_hash": "sha256:e1a1da965132c29af79cce668f11f0ea79317f9f580aaa790a20526586cf104e",
       "source_type": "document",
       "project": null,
       "pages_created": [],
-      "pages_updated": [
-        "references/민선9기-인수위-업무보고-경제산업.md",
-        "concepts/울산-산업전환.md"
-      ]
+      "pages_updated": [],
+      "note": "띄어쓰기 수정·서식 변경만, 신규 사실 없음"
     },
     "0 일반/20260000-인수위-종합건설본부.md": {
-      "ingested_at": "2026-07-03T22:24:37.547Z",
-      "size_bytes": 37193,
-      "modified_at": "2026-07-02T08:05:06.307Z",
-      "content_hash": "sha256:eca7cfcaf96574270b06f694021bfe4f46f0e12c71f950b8c1e89c40af499dfc",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 37213,
+      "modified_at": "2026-07-11T19:51:33.808Z",
+      "content_hash": "sha256:520c660f4edf670079409286dc79cebf22f09fd1b977211ebdd312139ec202ce",
       "source_type": "document",
       "project": null,
       "pages_created": [],
-      "pages_updated": [
-        "references/민선9기-인수위-업무보고-인프라안전.md"
-      ]
+      "pages_updated": [],
+      "note": "줄바꿈/서식 변경만, 신규 사실 없음"
     },
     "0 일반/20260000-인수위-행정국.md": {
       "ingested_at": "2026-07-03T22:24:37.547Z",
@@ -440,15 +581,15 @@
       ]
     },
     "0 일반/김상욱 당선인의 시정 추진계획안 초안 - ChatGPT 작성 답변.md": {
-      "ingested_at": "2026-07-03T22:29:21.299Z",
-      "size_bytes": 25235,
-      "modified_at": "2026-06-17T07:26:26.621Z",
-      "content_hash": "sha256:b85adadde8b5a90fc96e345d3268b46ed9465dd5b313e54dedb2152f2b9ee8b2",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 24998,
+      "modified_at": "2026-07-11T20:08:19.086Z",
+      "content_hash": "sha256:278a1f8edc6f41280628c30ebc9fdb5705948f506fc694f9b5027081a6ac7b44",
       "source_type": "document",
       "project": null,
       "pages_created": [],
       "pages_updated": [],
-      "note": "ChatGPT 합성 문서 — 본 위키 자체(GitHub 저장소)를 재료로 재구성한 2차 파생자료. 기존 synthesis 페이지와 대부분 중복, 신규 사실 없음."
+      "note": "줄바꿈/서식 변경만, 신규 사실 없음"
     },
     "0 일반/당선인 AX 업무보고 1차.md": {
       "ingested_at": "2026-07-03T22:29:21.299Z",
@@ -463,16 +604,15 @@
       ]
     },
     "0 일반/도시국 minutes_reorganized_researched 2.md": {
-      "ingested_at": "2026-07-03T22:29:21.299Z",
-      "size_bytes": 36486,
-      "modified_at": "2026-07-02T06:08:42.171Z",
-      "content_hash": "sha256:02cd53e15cca08c3900df600af4144a66e23c5f9e2849b4317ed2d2076363a20",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 36548,
+      "modified_at": "2026-07-12T01:41:47.786Z",
+      "content_hash": "sha256:5525174db0ffaab3fe78deafd5fbc631468e2f7d4f4d14c1fdcd111ca0cdde04",
       "source_type": "document",
       "project": null,
       "pages_created": [],
-      "pages_updated": [
-        "concepts/울산-산업전환.md"
-      ]
+      "pages_updated": [],
+      "note": "문장 1곳 다듬기·서식 변경만, 신규 사실 없음"
     },
     "0 일반/울산광역시장 당선인 김상욱입니다..md": {
       "ingested_at": "2026-07-03T22:29:21.299Z",
@@ -704,17 +844,17 @@
       ]
     },
     "daily/2026-07-09-ulsan-briefing.md": {
-      "ingested_at": "2026-07-26T00:00:00.000Z",
-      "size_bytes": 34129,
-      "modified_at": "2026-07-09T16:35:04.644Z",
-      "content_hash": "sha256:2a72dc4be7b7ff6ed8a0e8d1ba16833fde553c15d7615c4ebcbfd24a139a9fee",
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 33984,
+      "modified_at": "2026-07-10T11:00:26.974Z",
+      "content_hash": "sha256:81d4eeab748c26805c3a172c222860eb5fe9661e26e00f327577af547de20812",
       "source_type": "document",
       "project": null,
       "pages_created": [],
       "pages_updated": [
-        "concepts/울산-산업전환.md",
-        "synthesis/울산-정치지형.md"
-      ]
+        "synthesis/울산-경제이슈-2026.md"
+      ],
+      "note": "07-26 배치에서 반영된 브리핑이 재생성돼 해시가 바뀜. 빠진 항목만 보완"
     },
     "daily/2026-07-10-ulsan-briefing.md": {
       "ingested_at": "2026-07-26T00:00:00.000Z",
@@ -772,17 +912,17 @@
       ]
     },
     "daily/2026-07-16-ulsan-briefing.md": {
-      "ingested_at": "2026-07-26T00:00:00.000Z",
-      "size_bytes": 35026,
-      "modified_at": "2026-07-18T00:02:23.172Z",
-      "content_hash": "sha256:cb30eccf420e8e06a2545c833f5d0af2939fcd4609147d50f5dbd457f45fc252",
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 34877,
+      "modified_at": "2026-07-17T14:38:05.943Z",
+      "content_hash": "sha256:8bc71bcc1bc7cf25700bab01b43a751e2a1534295d9561781f010cfb1ead4a57",
       "source_type": "document",
       "project": null,
       "pages_created": [],
       "pages_updated": [
-        "entities/김상욱.md",
-        "concepts/울산-산업전환.md"
-      ]
+        "synthesis/울산-경제이슈-2026.md"
+      ],
+      "note": "07-26 배치에서 반영된 브리핑이 재생성돼 해시가 바뀜. 빠진 항목만 보완"
     },
     "daily/2026-07-17-ulsan-briefing.md": {
       "ingested_at": "2026-07-26T00:00:00.000Z",
@@ -797,19 +937,15 @@
       ]
     },
     "daily/2026-07-20-ulsan-briefing.md": {
-      "ingested_at": "2026-07-26T00:00:00.000Z",
-      "size_bytes": 23968,
-      "modified_at": "2026-07-21T09:56:33.683Z",
-      "content_hash": "sha256:c20e3a048efff2efb999ffc490c60a07d4d80002f7565e2a9a04f4a9d6f50a0c",
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 24075,
+      "modified_at": "2026-08-01T10:54:18.235Z",
+      "content_hash": "sha256:d5cf290bb5b5d72070a949adf14de539867952ee23a0c84408ac6ae9e1cffb7b",
       "source_type": "document",
       "project": null,
       "pages_created": [],
-      "pages_updated": [
-        "synthesis/울산-정치지형.md",
-        "references/울산-부동산-현황.md",
-        "concepts/울산-에너지전환.md",
-        "references/민선9기-인수위-업무보고.md"
-      ]
+      "pages_updated": [],
+      "note": "07-26 배치에서 반영된 브리핑이 재생성돼 해시가 바뀜. 내용(현대차 2차 부분파업, 상반기 수출 +15.9%, 남구·중동구 양극화 등)은 이미 반영돼 있어 새로 반영할 사실 없음"
     },
     "daily/2026-07-21-ulsan-briefing.md": {
       "ingested_at": "2026-07-26T00:00:00.000Z",
@@ -887,17 +1023,15 @@
       "note": "신규 리서치 메모 — 타절준공·합의해지 시 손실보상 시나리오 A/B/C(55억~330억 원)"
     },
     "교통/울산 BRT - 글로벌 스펙트럼.md": {
-      "ingested_at": "2026-07-17T00:00:00.000Z",
-      "size_bytes": 11608,
-      "modified_at": "2026-07-18T00:02:23.190Z",
-      "content_hash": "sha256:71e2b94e2148971294e5c3fb3b1f2d2a75d5325e9a521e1e2db2a52c81470375",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 11502,
+      "modified_at": "2026-07-10T14:37:39.693Z",
+      "content_hash": "sha256:22c35e266a40c9e32c5004996483f4e36c89de3a524072f92d3dbc6773ef34d7",
       "source_type": "document",
       "project": null,
       "pages_created": [],
-      "pages_updated": [
-        "concepts/울산-대중교통.md"
-      ],
-      "note": "이미 2026-07-17 세션에서 ingest 완료(concepts/울산-대중교통.md 반영). mtime만 07-18 일괄 touch, 내용 변경 없음 — manifest 정합화 목적으로 이번에 등록 [2026-10-09 백필: ingested_at을 최초 반영 세션 날짜로 바로잡고 pages_* 귀속을 log.md·위키 sources frontmatter 기준으로 채움. content_hash는 07-26 등록값 유지]"
+      "pages_updated": [],
+      "note": "줄바꿈/서식 변경만, 신규 사실 없음"
     },
     "교통/트램/20260708-음성정리-김창현정책기획관U.md": {
       "ingested_at": "2026-07-10T00:00:00.000Z",
@@ -913,101 +1047,81 @@
       "note": "이미 2026-07-10 세션에서 ingest 완료(concepts/울산-트램1호선-재검토.md 반영). 07-11 재편집은 git diff 확인 결과 마크다운 강조(**,==) 및 오탈자 수정뿐, 신규 사실 없음 [2026-10-09 백필: ingested_at을 최초 반영 세션 날짜로 바로잡고 pages_* 귀속을 log.md·위키 sources frontmatter 기준으로 채움. content_hash는 07-26 등록값 유지]"
     },
     "교통/트램/사업비 재추계/Check.md": {
-      "ingested_at": "2026-07-17T00:00:00.000Z",
-      "size_bytes": 732,
-      "modified_at": "2026-07-18T00:02:23.192Z",
-      "content_hash": "sha256:2de3ad68f2b7527d40757c951869617bda4c2cbc9fc004667a554e017172a7ac",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 721,
+      "modified_at": "2026-07-11T09:12:51.331Z",
+      "content_hash": "sha256:d388d7e9f85d538ce49c9ec8991882a2a7daa46003754ba28c9c1c46beadf2a7",
       "source_type": "document",
       "project": null,
       "pages_created": [],
-      "pages_updated": [
-        "concepts/울산-트램1호선-재검토.md"
-      ],
-      "note": "2026-07-17 세션에서 이미 ingest 완료. manifest 정합화 목적으로 등록 [2026-10-09 백필: ingested_at을 최초 반영 세션 날짜로 바로잡고 pages_* 귀속을 log.md·위키 sources frontmatter 기준으로 채움. content_hash는 07-26 등록값 유지]"
+      "pages_updated": [],
+      "note": "줄바꿈/서식 변경만, 신규 사실 없음"
     },
     "교통/트램/사업비 재추계/계약 내용 검토.md": {
-      "ingested_at": "2026-07-17T00:00:00.000Z",
-      "size_bytes": 9661,
-      "modified_at": "2026-07-18T00:02:23.193Z",
-      "content_hash": "sha256:9b6baf356d9b8ca524a40299ce6a0f6b27ef2df35b6d4327e0c1899d363fec0c",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 9383,
+      "modified_at": "2026-07-11T11:25:31.076Z",
+      "content_hash": "sha256:b79be01f0be8caa21c0eb41a61a26a290826d6e3c0f2f6d7ee671bd66a6c0174",
       "source_type": "document",
       "project": null,
-      "pages_created": [
-        "entities/한신공영.md"
-      ],
-      "pages_updated": [
-        "concepts/울산-트램1호선-재검토.md"
-      ],
-      "note": "2026-07-17 세션에서 이미 ingest 완료. manifest 정합화 목적으로 등록 [2026-10-09 백필: ingested_at을 최초 반영 세션 날짜로 바로잡고 pages_* 귀속을 log.md·위키 sources frontmatter 기준으로 채움. content_hash는 07-26 등록값 유지]"
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "줄바꿈/서식 변경만, 신규 사실 없음"
     },
     "교통/트램/사업비 재추계/수요 예측치 변화.md": {
-      "ingested_at": "2026-07-17T00:00:00.000Z",
-      "size_bytes": 4933,
-      "modified_at": "2026-07-18T00:02:23.193Z",
-      "content_hash": "sha256:9e8d860fabbe2839dfbd443e3e314f135dd64c4358189047ac1bb6d3862773d0",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 4867,
+      "modified_at": "2026-07-11T11:11:35.922Z",
+      "content_hash": "sha256:0a6e022f00454e67aa9d16e1737a20fe286aee0c04af90d798c0d8ac0510d29f",
       "source_type": "document",
       "project": null,
       "pages_created": [],
-      "pages_updated": [
-        "concepts/울산-트램1호선-재검토.md"
-      ],
-      "note": "2026-07-17 세션에서 이미 ingest 완료. manifest 정합화 목적으로 등록 (어느 위키 페이지 sources에도 명시되지 않아 07-17 세션 단위 기록 기준으로 트램 페이지에 귀속 — 추정) [2026-10-09 백필: ingested_at을 최초 반영 세션 날짜로 바로잡고 pages_* 귀속을 log.md·위키 sources frontmatter 기준으로 채움. content_hash는 07-26 등록값 유지]"
+      "pages_updated": [],
+      "note": "줄바꿈/서식 변경만, 신규 사실 없음"
     },
     "교통/트램/사업비 재추계/재추계 추진 전략.md": {
-      "ingested_at": "2026-07-17T00:00:00.000Z",
-      "size_bytes": 1923,
-      "modified_at": "2026-07-18T00:02:23.194Z",
-      "content_hash": "sha256:56a75545a2ef41a00083aead764a49d239936a410609595ef4befc1ba730ada8",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 1906,
+      "modified_at": "2026-07-11T00:53:56.907Z",
+      "content_hash": "sha256:bd72afa4454916e2441322fc6663078ed2b9711bd2dbbf1a64813b569c56f759",
       "source_type": "document",
       "project": null,
-      "pages_created": [
-        "entities/한신공영.md"
-      ],
-      "pages_updated": [
-        "concepts/울산-트램1호선-재검토.md"
-      ],
-      "note": "2026-07-17 세션에서 이미 ingest 완료. manifest 정합화 목적으로 등록 [2026-10-09 백필: ingested_at을 최초 반영 세션 날짜로 바로잡고 pages_* 귀속을 log.md·위키 sources frontmatter 기준으로 채움. content_hash는 07-26 등록값 유지]"
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "줄바꿈/서식 변경만, 신규 사실 없음"
     },
     "교통/트램/사업비 재추계/차량 구매비.md": {
-      "ingested_at": "2026-07-17T00:00:00.000Z",
-      "size_bytes": 16456,
-      "modified_at": "2026-07-18T00:02:23.194Z",
-      "content_hash": "sha256:31a102ecca04c3f83a8e79258cfc71ba2df54b58d8ac3eceb9f4f52a769bdcef",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 16089,
+      "modified_at": "2026-07-11T01:05:55.744Z",
+      "content_hash": "sha256:9e759f5c911185370b5ac5d052d1d199915fb0fc92a92db96e4fc0a5f4264f4e",
       "source_type": "document",
       "project": null,
-      "pages_created": [
-        "entities/현대로템.md"
-      ],
-      "pages_updated": [
-        "concepts/울산-트램1호선-재검토.md"
-      ],
-      "note": "2026-07-17 세션에서 이미 ingest 완료. manifest 정합화 목적으로 등록 [2026-10-09 백필: ingested_at을 최초 반영 세션 날짜로 바로잡고 pages_* 귀속을 log.md·위키 sources frontmatter 기준으로 채움. content_hash는 07-26 등록값 유지]"
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "줄바꿈/서식 변경만, 신규 사실 없음"
     },
     "교통/트램/사업비 재추계/총사업비_관리지침_기획예산처훈령_제59호_20260511.md": {
-      "ingested_at": "2026-07-17T00:00:00.000Z",
-      "size_bytes": 141993,
-      "modified_at": "2026-07-18T00:02:23.196Z",
-      "content_hash": "sha256:da65ac82637460d351c12a101ed727338a6b58d92a2e6df98fcdab71776c4263",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 140546,
+      "modified_at": "2026-07-11T10:20:29.087Z",
+      "content_hash": "sha256:d5b3fc704760fd44a08845970488b0c19deeafb3063b1287e272550321193722",
       "source_type": "document",
       "project": null,
       "pages_created": [],
-      "pages_updated": [
-        "concepts/울산-트램1호선-재검토.md"
-      ],
-      "note": "2026-07-17 세션에서 이미 ingest 완료(법정 재조사 요건 10%/30% 정정 반영). manifest 정합화 목적으로 등록 [2026-10-09 백필: ingested_at을 최초 반영 세션 날짜로 바로잡고 pages_* 귀속을 log.md·위키 sources frontmatter 기준으로 채움. content_hash는 07-26 등록값 유지]"
+      "pages_updated": [],
+      "note": "줄바꿈/서식 변경만, 신규 사실 없음"
     },
     "교통/트램/사업비 재추계/트램 비용 재추계.md": {
-      "ingested_at": "2026-07-17T00:00:00.000Z",
-      "size_bytes": 22089,
-      "modified_at": "2026-07-18T00:02:23.197Z",
-      "content_hash": "sha256:e9c09f57e86f4aca7112b9449aaf7bfe2bce4d4c5a40ff72350759b90f9eec00",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 21543,
+      "modified_at": "2026-07-11T11:30:14.038Z",
+      "content_hash": "sha256:d34c2b9b5c0b578b5d8fafe56a39105dad8ecba301716767ab9e365acd7591f6",
       "source_type": "document",
       "project": null,
       "pages_created": [],
-      "pages_updated": [
-        "concepts/울산-트램1호선-재검토.md"
-      ],
-      "note": "2026-07-17 세션에서 이미 ingest 완료. manifest 정합화 목적으로 등록 [2026-10-09 백필: ingested_at을 최초 반영 세션 날짜로 바로잡고 pages_* 귀속을 log.md·위키 sources frontmatter 기준으로 채움. content_hash는 07-26 등록값 유지]"
+      "pages_updated": [],
+      "note": "줄바꿈/서식 변경만, 신규 사실 없음"
     },
     "교통/트램/사업비 증가 확인  전략.md": {
       "ingested_at": "2026-07-10T00:00:00.000Z",
@@ -1023,33 +1137,26 @@
       "note": "2026-07-10 세션에서 이미 ingest 완료(7개 공격축 반영). manifest 정합화 목적으로 등록 [2026-10-09 백필: ingested_at을 최초 반영 세션 날짜로 바로잡고 pages_* 귀속을 log.md·위키 sources frontmatter 기준으로 채움. content_hash는 07-26 등록값 유지]"
     },
     "교통/트램/울산광역시_도시교통_특징과_비교.md": {
-      "ingested_at": "2026-07-17T00:00:00.000Z",
-      "size_bytes": 4580,
-      "modified_at": "2026-07-18T00:02:23.198Z",
-      "content_hash": "sha256:606c4d005af416e7d3702de49e9bd011285eab774bea23090196d75a9275b5fe",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 4493,
+      "modified_at": "2026-07-10T14:28:58.810Z",
+      "content_hash": "sha256:0485d82c401db411f5b2988a99a0c8655e4e44509ae8f317a46d1fd80b8ba04f",
       "source_type": "document",
       "project": null,
       "pages_created": [],
-      "pages_updated": [
-        "concepts/울산-대중교통.md"
-      ],
-      "note": "2026-07-17 세션에서 이미 ingest 완료(concepts/울산-대중교통.md 대중교통분담률 표). manifest 정합화 목적으로 등록 [2026-10-09 백필: ingested_at을 최초 반영 세션 날짜로 바로잡고 pages_* 귀속을 log.md·위키 sources frontmatter 기준으로 채움. content_hash는 07-26 등록값 유지]"
+      "pages_updated": [],
+      "note": "줄바꿈/서식 변경만, 신규 사실 없음"
     },
     "교통/트램/울산시_트램사업_history.md": {
-      "ingested_at": "2026-07-17T00:00:00.000Z",
-      "size_bytes": 11552,
-      "modified_at": "2026-07-18T00:02:23.198Z",
-      "content_hash": "sha256:3f32c495e37c21116048e5acfc8119bab1561647f7fdc773ad65a0de77b98d8c",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 11304,
+      "modified_at": "2026-07-10T14:31:04.580Z",
+      "content_hash": "sha256:b56edcf15544d7ce4675ec3695ddefa426eb9104b88022e30f1b6a187d136d67",
       "source_type": "document",
       "project": null,
-      "pages_created": [
-        "entities/한신공영.md",
-        "entities/현대로템.md"
-      ],
-      "pages_updated": [
-        "concepts/울산-트램1호선-재검토.md"
-      ],
-      "note": "2026-07-17 세션에서 이미 ingest 완료(4개 노선 전체계획·1호선 차량조달 협상사). manifest 정합화 목적으로 등록 [2026-10-09 백필: ingested_at을 최초 반영 세션 날짜로 바로잡고 pages_* 귀속을 log.md·위키 sources frontmatter 기준으로 채움. content_hash는 07-26 등록값 유지]"
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "줄바꿈/서식 변경만, 신규 사실 없음"
     },
     "교통/트램/타당성 조사 담당국장 통화 내용.md": {
       "ingested_at": "2026-07-10T00:00:00.000Z",
@@ -1065,98 +1172,92 @@
       "note": "2026-07-10 세션에서 이미 ingest 완료(중단전략 통화 재정리). manifest 정합화 목적으로 등록 [2026-10-09 백필: ingested_at을 최초 반영 세션 날짜로 바로잡고 pages_* 귀속을 log.md·위키 sources frontmatter 기준으로 채움. content_hash는 07-26 등록값 유지]"
     },
     "교통/트램/트램 도시철도 1호선 여비타당성 재조사.md": {
-      "ingested_at": "2026-07-26T00:00:00.000Z",
-      "size_bytes": 10159,
-      "modified_at": "2026-07-18T00:02:23.200Z",
-      "content_hash": "sha256:0bd776505367fcc7f989dae4c5bfef5d1f9012aa15587494bfbcad499bea68a8",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 10069,
+      "modified_at": "2026-06-17T21:03:01.989Z",
+      "content_hash": "sha256:2d696814b32db26579e6f8664d881589b97712fde9e0895f39165318b2bea961",
       "source_type": "document",
       "project": null,
       "pages_created": [],
       "pages_updated": [],
-      "note": "git 이력상 '교통/트램 도시철도 1호선 여비타당성 재조사.md'(최초 ingest 대상)가 2026-07-18 트램/ 하위폴더로 단순 이동(rename, 100% 동일 내용)된 파일. 원본은 pre-07-03 배치에서 이미 처리 완료"
+      "note": "줄바꿈/서식 변경만, 신규 사실 없음"
     },
     "교통/트램/트램 도시철도 1호선 타당성 재검토 가능 여부.md": {
-      "ingested_at": "2026-07-10T00:00:00.000Z",
-      "size_bytes": 20717,
-      "modified_at": "2026-07-07T12:33:44.911Z",
-      "content_hash": "sha256:edf3d44f7c6a18e6ccb0be73672dbb8765e72bd4156ee53c0d8eb0309fd51c6d",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 20426,
+      "modified_at": "2026-07-07T08:36:09.161Z",
+      "content_hash": "sha256:c2f012bde2da04843c12df11ca1e77991016356ef9527eea15e6a0cd63461b37",
       "source_type": "document",
       "project": null,
       "pages_created": [],
       "pages_updated": [],
-      "note": "2026-07-10 세션에서 '타당성 조사 담당국장 통화 내용.md'와 동일 내용 중복 파일로 확인·처리됨. manifest 정합화 목적으로 등록 [2026-10-09 백필: ingested_at을 최초 반영 세션 날짜로 바로잡고 pages_* 귀속을 log.md·위키 sources frontmatter 기준으로 채움. content_hash는 07-26 등록값 유지]"
+      "note": "줄바꿈/서식 변경만, 신규 사실 없음"
     },
     "금융/울산 신용보증재단의 현황과 우려.md": {
-      "ingested_at": "2026-07-17T00:00:00.000Z",
-      "size_bytes": 6272,
-      "modified_at": "2026-07-18T00:02:23.200Z",
-      "content_hash": "sha256:3c285beeeb37e9c71872bc0fdc4b586bb6a0926325222cdf142567338efda743",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 6161,
+      "modified_at": "2026-07-11T06:47:58.686Z",
+      "content_hash": "sha256:295d0a7f13b37e59072f6261106e549c8a03ac98172575563aa7d56f0cd0b691",
       "source_type": "document",
       "project": null,
-      "pages_created": [
-        "references/울산신용보증재단-사옥매입-논란.md"
-      ],
+      "pages_created": [],
       "pages_updated": [],
-      "note": "2026-07-17 세션에서 references/울산신용보증재단-사옥매입-논란.md 신규 생성으로 이미 반영 완료. manifest 정합화 목적으로 등록 [2026-10-09 백필: ingested_at을 최초 반영 세션 날짜로 바로잡고 pages_* 귀속을 log.md·위키 sources frontmatter 기준으로 채움. content_hash는 07-26 등록값 유지]"
+      "note": "줄바꿈/서식 변경만, 신규 사실 없음"
     },
     "0 일반/2026.7.8 간부회의.md": {
-      "ingested_at": "2026-07-10T00:00:00.000Z",
-      "size_bytes": 35613,
-      "modified_at": "2026-07-08T10:49:37.169Z",
-      "content_hash": "sha256:05648191fbba91df732e8b2da6d9bdd4b0a0dbe7cc06fb63278f065866341978",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 35198,
+      "modified_at": "2026-07-08T10:35:53.374Z",
+      "content_hash": "sha256:90c0d531466d8b367edbac462240f9e435a0a30096f30f3873b1843e6c588e23",
       "source_type": "document",
       "project": null,
-      "pages_created": [
-        "references/민선9기-7월정례회의-현안.md"
-      ],
+      "pages_created": [],
       "pages_updated": [],
-      "note": "2026-07-10 세션에서 이미 ingest 완료. manifest 정합화 목적으로 등록 [2026-10-09 백필: ingested_at을 최초 반영 세션 날짜로 바로잡고 pages_* 귀속을 log.md·위키 sources frontmatter 기준으로 채움. content_hash는 07-26 등록값 유지]"
+      "note": "줄바꿈/서식 변경만, 신규 사실 없음"
     },
     "0 일반/김상욱 시장 7월 월간업무계획 보고 발언 재정리.md": {
-      "ingested_at": "2026-07-10T00:00:00.000Z",
-      "size_bytes": 31866,
-      "modified_at": "2026-07-18T00:02:23.090Z",
-      "content_hash": "sha256:42bd65eecfc0459a7de0a6738616963f887dd1ab9aadf288fa149b765dbf8789",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 31644,
+      "modified_at": "2026-07-11T20:17:52.508Z",
+      "content_hash": "sha256:77542a84a74273af4c0f41faa329299a0504398506c17cf9f32233b7fa1f063d",
       "source_type": "document",
       "project": null,
-      "pages_created": [
-        "references/민선9기-7월정례회의-현안.md"
-      ],
+      "pages_created": [],
       "pages_updated": [],
-      "note": "2026-07-10 세션에서 이미 ingest 완료. 07-12 재편집은 git diff 확인 결과 서식 변경뿐, 신규 사실 없음(2026-07-17 세션에서도 동일 확인) [2026-10-09 백필: ingested_at을 최초 반영 세션 날짜로 바로잡고 pages_* 귀속을 log.md·위키 sources frontmatter 기준으로 채움. content_hash는 07-26 등록값 유지]"
+      "note": "줄바꿈/서식 변경만, 신규 사실 없음"
     },
     "0 일반/20260617 인수위 경제산업실.md": {
-      "ingested_at": "2026-07-26T00:00:00.000Z",
-      "size_bytes": 31187,
-      "modified_at": "2026-07-18T00:02:23.088Z",
-      "content_hash": "sha256:8c83880384370b43034baf181bb2d4f09ed8078de06b5f307ae7f3c5203cf04f",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 30804,
+      "modified_at": "2026-07-11T20:01:58.767Z",
+      "content_hash": "sha256:f167aa0f683a15fb2f3b8baf4879119093b15687212b4be7a9cfe05957a34f67",
       "source_type": "document",
       "project": null,
       "pages_created": [],
       "pages_updated": [],
-      "note": "pre-07-03 배치에서 원본 이미 반영. 07-12 재편집은 이번 세션에서 git diff로 직접 대조한 결과 마크다운 강조(**,==) 추가뿐 — 신규 사실 없음"
+      "note": "줄바꿈/서식 변경만, 신규 사실 없음"
     },
     "0 일반/20260617 인수위, 교통국.md": {
-      "ingested_at": "2026-07-26T00:00:00.000Z",
-      "size_bytes": 34843,
-      "modified_at": "2026-07-19T14:58:03.832Z",
-      "content_hash": "sha256:47e1a828f0a7214bb2198b3c4359b4db669e0dd280cbd3def3a9573ab8f0f048",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 34347,
+      "modified_at": "2026-07-19T14:41:21.320Z",
+      "content_hash": "sha256:fe14e0cdcdc8f80c0b479d130faccc8a89e4166622442ee08f3fd4f5ae96affb",
       "source_type": "document",
       "project": null,
       "pages_created": [],
       "pages_updated": [],
-      "note": "pre-07-03 배치에서 원본 이미 반영. 07-19 재편집(가장 최근 변경분 포함)은 이번 세션에서 git diff로 직접 대조한 결과 마크다운 강조(**,==) 추가뿐 — 신규 사실 없음"
+      "note": "줄바꿈/서식 변경만, 신규 사실 없음"
     },
     "0 일반/20260618 인수위, 경제자유구역청.md": {
-      "ingested_at": "2026-07-26T00:00:00.000Z",
-      "size_bytes": 7367,
-      "modified_at": "2026-07-18T00:02:23.089Z",
-      "content_hash": "sha256:97397415f60a60a2ed29dba22061dc70848452f5adcaa049891302f7f719403f",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 7290,
+      "modified_at": "2026-07-11T20:06:41.484Z",
+      "content_hash": "sha256:087ac63650fcaf89817b96ac2191333bc8ce8d15b1a0c3fc294185160dd437d8",
       "source_type": "document",
       "project": null,
       "pages_created": [],
       "pages_updated": [],
-      "note": "pre-07-03 배치에서 원본 이미 반영. 07-12 재편집은 이번 세션에서 git diff로 직접 대조한 결과 마크다운 강조 추가뿐 — 신규 사실 없음"
+      "note": "줄바꿈/서식 변경만, 신규 사실 없음"
     },
     "People/김태선 민주당 의원.md": {
       "ingested_at": "2026-07-26T00:00:00.000Z",
@@ -1170,15 +1271,17 @@
       "note": "git log 확인 결과 2026-06-16 이후 실질 변경 없음(7/21 mtime은 파일시스템 touch만). 이미 entities/김태선.md에 반영 완료"
     },
     "0 일반/0 IDEA.md": {
-      "ingested_at": "2026-07-17T00:00:00.000Z",
-      "size_bytes": 286,
-      "modified_at": "2026-07-18T00:02:23.073Z",
-      "content_hash": "sha256:96b7f2bcc3e072725edc0e1ab2be47b24308fd51891c6ac02f53cefb60e44407",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 1791,
+      "modified_at": "2026-10-02T15:04:23.296Z",
+      "content_hash": "sha256:9d6b0d1b9bba14c89844f511694f12924f0ac47bd559db14b215ef858b48ce69",
       "source_type": "document",
       "project": null,
       "pages_created": [],
-      "pages_updated": [],
-      "note": "2026-07-17 세션에서 개인 브레인스토밍 메모로 스킵 확정. 이번 세션에서도 동일 판단 유지 [2026-10-09 백필: ingested_at을 최초 반영 세션 날짜로 바로잡고 pages_* 귀속을 log.md·위키 sources frontmatter 기준으로 채움. content_hash는 07-26 등록값 유지]"
+      "pages_updated": [
+        "concepts/울산-KPI성과관리.md"
+      ],
+      "note": "경제부시장 아이디어 메모. 추가분 중 통계 저장소 구상만 반영(0 당장할일과 중복). 조직개편·동영상 아카이브 등은 짧은 구상 메모라 보류"
     },
     "References files/울산 성과예산.hwpx": {
       "ingested_at": "2026-07-26T00:00:00.000Z",
@@ -1621,15 +1724,15 @@
       "note": "[2026-10-09 백필] 06월 세션(06-17/06-26) ingest분. content_hash는 06-26 기준 git 버전(4d1d163) 기준. 페이지 귀속은 위키 sources frontmatter 참조(세션 단위 기록만 있음)"
     },
     "행정/울산 시금고 - BNK, NH.md": {
-      "ingested_at": "2026-06-26T00:00:00.000Z",
-      "size_bytes": 2416,
-      "modified_at": null,
-      "content_hash": "sha256:3a58e83037505f3fbd837e48cddccd331a469e1af723e54591d3b3f91654a865",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 2429,
+      "modified_at": "2026-06-17T06:05:48.219Z",
+      "content_hash": "sha256:6f8597f26026e5ff032eebce0dfbe48dc38dcea87320709b5fba156a41e7af6e",
       "source_type": "document",
       "project": null,
       "pages_created": [],
       "pages_updated": [],
-      "note": "[2026-10-09 백필] 06월 세션(06-17/06-26) ingest분. content_hash는 06-26 기준 git 버전(4d1d163) 기준. 페이지 귀속은 위키 sources frontmatter 참조(세션 단위 기록만 있음)"
+      "note": "줄바꿈/서식 변경만, 신규 사실 없음"
     },
     "행정/울산시 출연기관장 5명·임원 1명 이달 말 임기 종료.md": {
       "ingested_at": "2026-06-26T00:00:00.000Z",
@@ -1654,15 +1757,15 @@
       "note": "[2026-10-09 백필] 06월 세션(06-17/06-26) ingest분. content_hash는 06-26 기준 git 버전(4d1d163) 기준. 페이지 귀속은 위키 sources frontmatter 참조(세션 단위 기록만 있음)"
     },
     "행정/지방세입 체납관리단 전국 확산…울산, 광역정부 중 첫 발대식.md": {
-      "ingested_at": "2026-06-26T00:00:00.000Z",
-      "size_bytes": 2944,
-      "modified_at": null,
-      "content_hash": "sha256:b4bbcf45048a6a447cbd3b1efc89755361729228fb8a7257be8dd40eabb799a6",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 2983,
+      "modified_at": "2026-06-17T06:15:54.087Z",
+      "content_hash": "sha256:2863cc049f8361ebfead5197f7ed8a41b0bc7a742b909adafe03adc6d5300931",
       "source_type": "document",
       "project": null,
       "pages_created": [],
       "pages_updated": [],
-      "note": "[2026-10-09 백필] 06월 세션(06-17/06-26) ingest분. content_hash는 06-26 기준 git 버전(4d1d163) 기준. 페이지 귀속은 위키 sources frontmatter 참조(세션 단위 기록만 있음)"
+      "note": "줄바꿈/서식 변경만, 신규 사실 없음"
     },
     "복지/참사 막으려 도입한 ‘야간 돌봄’…울산은 5곳뿐.md": {
       "ingested_at": "2026-06-26T00:00:00.000Z",
@@ -1687,37 +1790,43 @@
       "note": "[2026-10-09 백필] 06월 세션(06-17/06-26) ingest분. content_hash는 06-26 기준 git 버전(4d1d163) 기준. 페이지 귀속은 위키 sources frontmatter 참조(세션 단위 기록만 있음)"
     },
     "도시/AI가 띄운 울산 아파트값, 1년새 국평 2억 뛰었다부동산AtoZ.md": {
-      "ingested_at": "2026-06-26T00:00:00.000Z",
-      "size_bytes": 6247,
-      "modified_at": null,
-      "content_hash": "sha256:980d10b4c772d1eacba7d36b79158b8e0028ee55141be18246e9b0878e0b1794",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 6286,
+      "modified_at": "2026-09-19T00:06:06.388Z",
+      "content_hash": "sha256:c9bcb1cfbf62f8f99d55d19baa70cacd8b72876714dd1de4792ff81c182304bc",
       "source_type": "document",
       "project": null,
       "pages_created": [],
-      "pages_updated": [],
-      "note": "[2026-10-09 백필] 06월 세션(06-17/06-26) ingest분. content_hash는 06-26 기준 git 버전(4d1d163) 기준. 기록 경로 \"부동산/AI가 띄운 울산 아파트값, 1년새 국평 2억 뛰었다부동산AtoZ.md\" → 현재 경로로 정정(폴더 이동 또는 따옴표 문자 차이). 페이지 귀속은 위키 sources frontmatter 참조(세션 단위 기록만 있음)"
+      "pages_updated": [
+        "references/울산-부동산-현황.md"
+      ],
+      "note": "줄바꿈/서식 변경만, 신규 사실 없음(부동산/→도시/ 폴더 이동). 출처 경로 정정"
     },
     "도시/울산 상가·오피스텔 경매 급증…22년 만에 최대.md": {
-      "ingested_at": "2026-06-26T00:00:00.000Z",
-      "size_bytes": 1139,
-      "modified_at": null,
-      "content_hash": "sha256:0f8b7ad47b695a716ab450f8c3f1fe3c2126a216287c0a3c3b2472c9c414af27",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 1153,
+      "modified_at": "2026-09-19T00:06:06.388Z",
+      "content_hash": "sha256:c8916913424333e185e7cc0c04b95a2c783ba8c87321447e519cd83937cec57e",
       "source_type": "document",
       "project": null,
       "pages_created": [],
-      "pages_updated": [],
-      "note": "[2026-10-09 백필] 06월 세션(06-17/06-26) ingest분. content_hash는 06-26 기준 git 버전(4d1d163) 기준. 기록 경로 \"부동산/울산 상가·오피스텔 경매 급증…22년 만에 최대.md\" → 현재 경로로 정정(폴더 이동 또는 따옴표 문자 차이). 페이지 귀속은 위키 sources frontmatter 참조(세션 단위 기록만 있음)"
+      "pages_updated": [
+        "references/울산-부동산-현황.md"
+      ],
+      "note": "줄바꿈/서식 변경만, 신규 사실 없음(부동산/→도시/ 폴더 이동). 출처 경로 정정"
     },
     "도시/울산연구원 민간 중심 도시개발사업 공공성 강화를.md": {
-      "ingested_at": "2026-06-26T00:00:00.000Z",
-      "size_bytes": 3583,
-      "modified_at": null,
-      "content_hash": "sha256:0cb8a4f9081d77d7f250fed689ac609e90f42a824b32f4c731a12d60439b7f33",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 3617,
+      "modified_at": "2026-09-19T00:06:06.394Z",
+      "content_hash": "sha256:37e3e115038360be12b8d39551b611db02d82002a8befb1189da0e9e250f4db5",
       "source_type": "document",
       "project": null,
       "pages_created": [],
-      "pages_updated": [],
-      "note": "[2026-10-09 백필] 06월 세션(06-17/06-26) ingest분. content_hash는 06-26 기준 git 버전(4d1d163) 기준. 기록 경로 \"부동산/울산연구원 민간 중심 도시개발사업 공공성 강화를.md\" → 현재 경로로 정정(폴더 이동 또는 따옴표 문자 차이). 페이지 귀속은 위키 sources frontmatter 참조(세션 단위 기록만 있음)"
+      "pages_updated": [
+        "references/울산-도시개발.md"
+      ],
+      "note": "줄바꿈/서식 변경만, 신규 사실 없음(부동산/→도시/ 폴더 이동). 출처 경로 정정"
     },
     "문화/울산시 '반구천 암각화' 세계적 문화 상표로 육성한다.md": {
       "ingested_at": "2026-06-26T00:00:00.000Z",
@@ -1874,15 +1983,15 @@
       "note": "[2026-10-09 백필] 2026-07-01 커밋 0a8262e에서 파일이 삭제되어 해시를 계산할 수 없음. 06월 세션에서 ingest된 기록만 남김"
     },
     "0 일반/김상욱 인터뷰.md": {
-      "ingested_at": "2026-06-26T00:00:00.000Z",
-      "size_bytes": 9167,
-      "modified_at": null,
-      "content_hash": "sha256:90bb933d74535cfc4ea79d7416ec7066ef1e607f10e6383382e297acf2d1e79d",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 9171,
+      "modified_at": "2026-06-20T18:21:37.418Z",
+      "content_hash": "sha256:4266d06b5a3a06b6163d903dc14c2df41e43d4c8412e01faee0d957266879405",
       "source_type": "document",
       "project": null,
       "pages_created": [],
       "pages_updated": [],
-      "note": "[2026-10-09 백필] 06월 세션(06-17/06-26) ingest분. content_hash는 06-26 기준 git 버전(4d1d163) 기준. 페이지 귀속은 위키 sources frontmatter 참조(세션 단위 기록만 있음)"
+      "note": "줄바꿈/서식 변경만, 신규 사실 없음"
     },
     "0 일반/김상욱 공약_ulsan_economy_remarks.md": {
       "ingested_at": "2026-06-26T00:00:00.000Z",
@@ -2116,15 +2225,15 @@
       "note": "[2026-10-09 백필] 06월 세션(06-17/06-26) ingest분. content_hash는 현재 파일 기준(06-26 git 버전 없음. 이 경로의 커밋은 1건뿐이라 git 기록상 최초 버전과 같음). 페이지 귀속은 위키 sources frontmatter 참조(세션 단위 기록만 있음)"
     },
     "행정/2026-6-22 기획조정실 현안.md": {
-      "ingested_at": "2026-06-26T00:00:00.000Z",
-      "size_bytes": 4020,
-      "modified_at": null,
-      "content_hash": "sha256:cea427da37b63f48481a6fe3282575959f6130b3ca8abdf8bdf74e75ec6170b8",
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 4016,
+      "modified_at": "2026-06-22T13:58:36.534Z",
+      "content_hash": "sha256:43e7fc38d5a41f9e550bb4f015273a5fb0495d40e1824226c0b1f81e2116ce1d",
       "source_type": "document",
       "project": null,
       "pages_created": [],
       "pages_updated": [],
-      "note": "[2026-10-09 백필] 06월 세션(06-17/06-26) ingest분. content_hash는 06-26 기준 git 버전(4d1d163) 기준. 페이지 귀속은 위키 sources frontmatter 참조(세션 단위 기록만 있음)"
+      "note": "빈 번호 줄 1개 삭제·서식 변경만, 신규 사실 없음"
     },
     "고용/고령자 늘며 제조업 취업자 비중 점차 축소.md": {
       "ingested_at": "2026-06-26T00:00:00.000Z",
@@ -2235,6 +2344,2013 @@
       "pages_created": [],
       "pages_updated": [],
       "note": "[2026-10-09 백필] 06월 세션(06-17/06-26) ingest분. content_hash는 현재 파일 기준(06-26 git 버전 없음. 이 경로의 커밋은 1건뿐이라 git 기록상 최초 버전과 같음). 기록 경로 \"AI/데이터센터 비상… 전세계 \"전력 늘리며 탄소 저감할 묘안 찾아라\".md\" → 현재 경로로 정정(폴더 이동 또는 따옴표 문자 차이). 페이지 귀속은 위키 sources frontmatter 참조(세션 단위 기록만 있음)"
+    },
+    "당장할일.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 0,
+      "modified_at": "2026-10-02T15:04:23.328Z",
+      "content_hash": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "빈 파일(0바이트). 반영할 내용 없음"
+    },
+    "무제.canvas": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 2,
+      "modified_at": "2026-10-05T06:41:21.831Z",
+      "content_hash": "sha256:44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "빈 캔버스({}). 반영할 내용 없음"
+    },
+    "0 말말말/20261005-사우디 투자 협의C.md": {
+      "ingested_at": "2026-10-11T14:00:00.000Z",
+      "size_bytes": 8065,
+      "modified_at": "2026-10-05T02:33:00.385Z",
+      "content_hash": "sha256:82a2a881ae67a682b19bd775cd850b099c32bcda3d762ac700f5b8e89247eba6",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/울산-동북아-에너지허브.md"
+      ],
+      "pages_updated": [
+        "concepts/울산-동북아-에너지허브.md"
+      ],
+      "note": "사용자 요청으로 재ingest. 기자단 미동행, 11-02 출발, SO1(S-OIL) 본사 이전 해석 등 빠진 세부 반영"
+    },
+    "0 말말말/20261005-시장지시C.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 11151,
+      "modified_at": "2026-10-05T06:40:37.848Z",
+      "content_hash": "sha256:20eaf141a3df0d4639501734ceae323cb8afb6290e5997378034fbb4fc96e657",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/민선9기-10월-주요업무회의-시장지시.md"
+      ],
+      "pages_updated": []
+    },
+    "0 말말말/20261005-울산 남신항 에너지허브 개발C.md": {
+      "ingested_at": "2026-10-11T14:00:00.000Z",
+      "size_bytes": 12814,
+      "modified_at": "2026-10-05T02:33:00.390Z",
+      "content_hash": "sha256:f03521206d7d83d0688300eadf3c5f8209f98ccf40ee253ab20f9b152cf9da70",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/울산-동북아-에너지허브.md"
+      ],
+      "pages_updated": [
+        "concepts/울산-동북아-에너지허브.md"
+      ],
+      "note": "사용자 요청으로 재ingest(규칙 개정: 사적 대화·인사 내용 포함). 지난번 제외한 내부 인사·법률 논의(변호사·경찰 언급)와 예타 면제 시 2035/미면제 2037 일정, 3,979·가전사장성 해석, 녹취 시점 불일치를 반영"
+    },
+    "0 말말말/202610_경제국 감사관실 주요업무회의_시장_직접지시사항.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 22223,
+      "modified_at": "2026-10-05T05:57:59.589Z",
+      "content_hash": "sha256:53bd1e3b32cf6b23eb014cad89c9e3bbc4389eb6dbb1b3ae95d275b2604f25de",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/민선9기-10월-주요업무회의-시장지시.md"
+      ],
+      "pages_updated": []
+    },
+    "0 말말말/2027년_주요업무계획회의_시장_직접지시사항.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 18728,
+      "modified_at": "2026-10-05T06:23:39.448Z",
+      "content_hash": "sha256:2eef3fba8d5b0328632a37cdbe768e2b5914da4bd2a40a05e177c07762db2dc4",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/민선9기-2027-주요업무계획.md",
+        "references/울산-문화관광체육-정책.md"
+      ],
+      "pages_updated": []
+    },
+    "0 말말말/261002 시장지시.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 9831,
+      "modified_at": "2026-10-05T05:47:50.190Z",
+      "content_hash": "sha256:84069447313c5ca72d966c0b82ca0c7be1204be0699e3d533f0f5e97fa308de6",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/민선9기-10월-주요업무회의-시장지시.md"
+      ],
+      "pages_updated": []
+    },
+    "0 시장지시/10월 시장 지시.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 963,
+      "modified_at": "2026-10-05T06:53:11.913Z",
+      "content_hash": "sha256:dcb0ace7a1a2935161f05a3260b472e7771dabff9a32928174809234a0c09afc",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/민선9기-10월-주요업무회의-시장지시.md"
+      ],
+      "pages_updated": []
+    },
+    "0 시장지시/20261005 시장 철학 수첩에서 발췌.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 1087,
+      "modified_at": "2026-10-05T06:48:58.062Z",
+      "content_hash": "sha256:046ce32de3d01f571f75583d9d4214c95ce1cc94aa25edf16afc46c31d9666f7",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/민선9기-10월-주요업무회의-시장지시.md"
+      ],
+      "pages_updated": [
+        "concepts/울산-에너지전환.md",
+        "concepts/울산-동북아-에너지허브.md"
+      ]
+    },
+    "0 시장지시/20261005-시장지시C_시장_직접지시사항.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 7151,
+      "modified_at": "2026-10-05T07:48:22.885Z",
+      "content_hash": "sha256:23379864236f9532955efc3d0b05724f75e8c8b30d6fe2c522583c197df43cc6",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/민선9기-10월-주요업무회의-시장지시.md"
+      ],
+      "pages_updated": []
+    },
+    "0 일반/0 당장할일.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 12494,
+      "modified_at": "2026-10-05T02:02:34.384Z",
+      "content_hash": "sha256:b9c4ba332138f5b143b66fa8bad6768874244790b779f0aff0c6410fd393169c",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "references/울산-문화관광체육-정책.md",
+        "concepts/울산-KPI성과관리.md"
+      ],
+      "note": "경제부시장 업무 메모. 정책 관련 내용(보조금 회계투명성, 통계 저장소, 일자리사업 성과)만 반영"
+    },
+    "0 일반/20260000-인수위-문화예술인-간담회.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 45813,
+      "modified_at": "2026-07-02T12:35:15.787Z",
+      "content_hash": "sha256:777763144bcc3e1f544f55a574eafb5ea1a9c10ef70bf5c3324d5129ab398e78",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/울산-문화관광체육-정책.md"
+      ],
+      "pages_updated": []
+    },
+    "1 회의/20261005-시장지시C_재정리.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 15436,
+      "modified_at": "2026-10-05T07:48:22.887Z",
+      "content_hash": "sha256:f75945e230885b45301df0d29d325442a5e764195826e7b51dbdfedbe0636a7d",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/민선9기-10월-주요업무회의-시장지시.md"
+      ],
+      "pages_updated": []
+    },
+    "1 회의/202610_울산광역시_주요업무회의_유튜브전사_재정리.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 57587,
+      "modified_at": "2026-10-05T05:57:43.488Z",
+      "content_hash": "sha256:126c4260e32f7526c024cb5d4351deda658d79db40d364ea8e06d9de0b8d3768",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/민선9기-10월-주요업무회의-시장지시.md"
+      ],
+      "pages_updated": []
+    },
+    "1 회의/2027년_주요업무계획회의_경제자유구역청_문화관광체육국_재정리.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 35437,
+      "modified_at": "2026-10-05T06:23:31.517Z",
+      "content_hash": "sha256:12ccc98ef2954f4870dac9d603582d2be8e5403b99731dbdd8909e9c31c6e5b5",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/민선9기-2027-주요업무계획.md",
+        "references/울산-문화관광체육-정책.md"
+      ],
+      "pages_updated": []
+    },
+    "1 회의/2027업무보고_권익인권담당관실_분권인구정책국_재정리본.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 42604,
+      "modified_at": "2026-10-05T03:14:33.863Z",
+      "content_hash": "sha256:ca9e1157b39aaff42f56ec297b6046e6604108578a4a00de6859a8b4789b30cb",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/민선9기-2027-주요업무계획.md"
+      ],
+      "pages_updated": []
+    },
+    "1 회의/260716 주요 현안 점검회의 발언 재정리.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 34200,
+      "modified_at": "2026-09-19T00:06:06.325Z",
+      "content_hash": "sha256:ea81354cad5dc8beed4bf5d7755ae2791ff68f3f33eb81ea97a30fca88eb50d8",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/민선9기-실국장회의-2026-08-09.md"
+      ],
+      "pages_updated": [
+        "concepts/울산-트램1호선-재검토.md"
+      ]
+    },
+    "1 회의/260820_실국장회의자료_텍스트전환.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 127839,
+      "modified_at": "2026-09-19T00:06:06.332Z",
+      "content_hash": "sha256:01447445afab37f811a86c4680984470993af4ae40a710d107cff1930e0726a3",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/민선9기-실국장회의-2026-08-09.md"
+      ],
+      "pages_updated": []
+    },
+    "1 회의/260903_실국장회의_자료_텍스트전환.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 237916,
+      "modified_at": "2026-09-19T00:06:06.341Z",
+      "content_hash": "sha256:f1d0a6d9d4a87b64ea0c9bb63ddac4dadf5031c68a42a712c1a2b784e76d6a2c",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/민선9기-실국장회의-2026-08-09.md"
+      ],
+      "pages_updated": []
+    },
+    "1 회의/260909_주간업무회의_자료_텍스트전환.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 134262,
+      "modified_at": "2026-09-19T00:06:06.344Z",
+      "content_hash": "sha256:f94137e9de506161f1eddcf32aa53596b228fc26528f176396f25bb39bc97579",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/민선9기-실국장회의-2026-08-09.md"
+      ],
+      "pages_updated": [
+        "concepts/울산-트램1호선-재검토.md"
+      ]
+    },
+    "1 회의/260915_실국장회의_자료_텍스트전환.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 164209,
+      "modified_at": "2026-09-19T00:06:06.346Z",
+      "content_hash": "sha256:d19657f1e8ccc07f9614bc7bf7b1df45a782cf82ff447838d349c894bfa94f0d",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/민선9기-실국장회의-2026-08-09.md"
+      ],
+      "pages_updated": [
+        "concepts/울산-트램1호선-재검토.md"
+      ]
+    },
+    "1 회의/260916 김상욱_울산시장_시의회_답변_항목별_재정리.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 19551,
+      "modified_at": "2026-09-19T00:06:06.346Z",
+      "content_hash": "sha256:d2bf10137efead79eef78e5d7043d2d50caf57a217d205e5776c225a1e60ee98",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/민선9기-실국장회의-2026-08-09.md"
+      ],
+      "pages_updated": []
+    },
+    "AI/2026_울산포럼_제조AX_세션_재정리.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 23935,
+      "modified_at": "2026-09-19T00:06:06.354Z",
+      "content_hash": "sha256:fcc3b3f5a1130d4d00a5900b8d92dd01b6399f5c85ba701ceb76bacfb5ebbd3c",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-산업전환.md"
+      ]
+    },
+    "AI/2027년도_주요업무계획_AI혁신산업실_상세정리.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 158633,
+      "modified_at": "2026-09-19T00:06:06.358Z",
+      "content_hash": "sha256:d7b86a6e94760691c0b7c9121955e63db286574a26f81a2f54c827cd6f8ecbe8",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-산업전환.md"
+      ],
+      "note": "파일전환/04_2027년도 주요업무계획(AI혁신산업실) (1).md와 동일 원문의 다른 전환본 — 파일전환본 기준으로 열람·반영"
+    },
+    "AI/3대 메가 프로젝트 대응방안 보고회.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 31701,
+      "modified_at": "2026-08-01T10:54:18.196Z",
+      "content_hash": "sha256:f9a1b46e3d876de69f2a287611976d729372e7c681ef59f393a9d35113c74491",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-산업전환.md",
+        "entities/UNIST.md"
+      ]
+    },
+    "AI/SX, DX, AX, QX.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 436,
+      "modified_at": "2026-10-02T15:04:23.296Z",
+      "content_hash": "sha256:8fd49a5a12f75c1bc805bbd846a399bdde64b54790450083e91ee5a5cd5e3e57",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "references/민선9기-10월-주요업무회의-시장지시.md"
+      ],
+      "note": "경제부시장 메모(스마트공장 실패 원인)"
+    },
+    "AI/산업 AX 정책협의회.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 10256,
+      "modified_at": "2026-09-27T07:31:36.125Z",
+      "content_hash": "sha256:f2ec833a3f8561937f30d1777c311c5ddfb52698acb93569ae1816fb4e28b9de",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-산업전환.md"
+      ],
+      "note": "경제부시장 개인 업무구상 메모(AI 응답 인용 포함) — 협의체 운영방식 부분만 inferred로 반영"
+    },
+    "AI/산업AX_현안사업_추진상황_점검회의_텍스트전환.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 154458,
+      "modified_at": "2026-09-19T00:06:06.358Z",
+      "content_hash": "sha256:73afa7934469cc68409b8bd67d84bfc34b55aaf13262d50da0ce8bd8afefc16c",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-산업전환.md",
+        "references/민선9기-실국장회의-2026-08-09.md",
+        "entities/UNIST.md"
+      ]
+    },
+    "AI/울산 행정 AI - 직원 AI 교육.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 264,
+      "modified_at": "2026-10-02T15:04:23.312Z",
+      "content_hash": "sha256:c6462f6583d20dbe3cad0e83fe3f6744b9f3f07c994e067da7a3d663076e02f9",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "references/민선9기-10월-주요업무회의-시장지시.md"
+      ],
+      "note": "경제부시장 메모"
+    },
+    "AI/철의장 디지털트위 계기 간담회.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 22269,
+      "modified_at": "2026-10-02T15:04:23.312Z",
+      "content_hash": "sha256:3eb65e6a2b3f03b56cbbc4c3541fb27a086d10f1e20488ebb0eafd4103f01409",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-산업전환.md",
+        "entities/UNIST.md"
+      ]
+    },
+    "AI/헤커톤.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 185,
+      "modified_at": "2026-10-02T15:04:23.316Z",
+      "content_hash": "sha256:10533e45f7b99ad44018eebc5942caa7209970f86209c9465eee374ca7872a5b",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "references/민선9기-10월-주요업무회의-시장지시.md"
+      ],
+      "note": "경제부시장 메모"
+    },
+    "Clippings/HD현대중공업 등 12개 기관, 해양 SMR(소형모듈원자로) 상용화 협력.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 3374,
+      "modified_at": "2026-10-09T00:18:49.139Z",
+      "content_hash": "sha256:c53888e70a7f0c3008ff748dfd25943384f799c847f8c767099f545163277487",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-에너지전환.md"
+      ]
+    },
+    "Clippings/기고 울산 부동산은 왜 ‘울산 전체’로 보면 안 되는가.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 5853,
+      "modified_at": "2026-10-09T00:11:16.357Z",
+      "content_hash": "sha256:fad36b0e5a4b60ee23ca864052a026a7501e425c5dc8a51966eda5e3d9ca30dc",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "references/울산-부동산-현황.md"
+      ]
+    },
+    "Clippings/울산페이 혜택 늘리자 비만치료제 싸게 살 기회.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 3850,
+      "modified_at": "2026-10-09T00:14:06.480Z",
+      "content_hash": "sha256:4edeaeb62bd950b3b7d7a100134b243d0b3ea80dd17d00878a33a0898e08c1dd",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "synthesis/울산-경제이슈-2026.md"
+      ]
+    },
+    "경제국/06_2027년도 주요업무계획(경제국).md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 134921,
+      "modified_at": "2026-09-24T10:29:44.036Z",
+      "content_hash": "sha256:9d0a368c7808d8fb4db08daee84e1e8c028fe38df201ca7826ed912cedc1309c",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/민선9기-2027-주요업무계획.md"
+      ],
+      "pages_updated": []
+    },
+    "교통/260921 2027년도 주요업무계획(교통국)v7_최종.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 94475,
+      "modified_at": "2026-09-24T10:29:44.048Z",
+      "content_hash": "sha256:7acaa06716c32f7a146dba5614c92064cab090e60b0e43f0bc012af4d687cdba",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-대중교통.md",
+        "concepts/울산-트램1호선-재검토.md"
+      ]
+    },
+    "뉴스/AX/전남광주서 AI 학습·울산서 주행 검증…미래차 ‘초광역 협력’ 구체화.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 4184,
+      "modified_at": "2026-10-04T01:17:18.961Z",
+      "content_hash": "sha256:879b6228539b9a277ad16ac0fa509cb6f5da6221d15b1367295677b1a95217d7",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "references/초광역-AI-AX.md"
+      ]
+    },
+    "뉴스/교육/울산과학대, 수시1차 경쟁률 9.99대1…반도체공학과 최고.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 3693,
+      "modified_at": "2026-10-05T06:26:56.769Z",
+      "content_hash": "sha256:e6cb28362d4f5e340cff8bb7a902132735f70bb2e167c14719abb095adaf8bb3",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "synthesis/울산-경제이슈-2026.md"
+      ]
+    },
+    "도시/2027년도_주요업무계획_도시국_상세텍스트화.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 102071,
+      "modified_at": "2026-09-19T00:06:06.386Z",
+      "content_hash": "sha256:e1dab295363699af4ceee15f413829e12ff66b5ff7364f5427ec5af35472e0a2",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "references/울산-도시개발.md"
+      ]
+    },
+    "도시/공공임대주택.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 172,
+      "modified_at": "2026-10-02T15:04:23.330Z",
+      "content_hash": "sha256:b82292d1b6a2f714ce19e101dd8bc4a67fbcb6b82d5dee70ce55abe6706cc5d1",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "references/민선9기-10월-주요업무회의-시장지시.md"
+      ],
+      "note": "경제부시장 메모(문수데시앙 2단지 22세대 분양전환 의문)"
+    },
+    "문화/공약7-6_학교_실내체육관_개방_지원사업_추진계획_텍스트전환.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 16252,
+      "modified_at": "2026-09-19T00:06:06.399Z",
+      "content_hash": "sha256:db5bbd4817b7f7c6ca50dadbaf8ef47dab7f52b7fc87befed20a7edb32602aef",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/울산-문화관광체육-정책.md"
+      ],
+      "pages_updated": []
+    },
+    "문화/문화관광체육국_신임경제부시장_업무보고_변환.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 120097,
+      "modified_at": "2026-09-12T14:58:13.672Z",
+      "content_hash": "sha256:ff5bb178c1cd8376ddbb06af7033440c77f31c8877bbea1513cb233237848973",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/울산-문화관광체육-정책.md"
+      ],
+      "pages_updated": []
+    },
+    "문화/울산 문화정책 진단 및 구조개편 방향.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 28271,
+      "modified_at": "2026-09-12T14:58:13.675Z",
+      "content_hash": "sha256:563df9016105b56e1cbc7193b530e227b9cda9a6478c96efb9205d5badc04a6a",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/울산-문화관광체육-정책.md"
+      ],
+      "pages_updated": []
+    },
+    "산업1/5극3특_성장엔진_육성전략_회의자료_텍스트정리.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 20769,
+      "modified_at": "2026-09-19T00:06:06.404Z",
+      "content_hash": "sha256:7e1f1374786d5a756da002c652cbdc4f0b62d78728461ffb1d43575d1775bfad",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/5극3특-성장엔진.md"
+      ],
+      "pages_updated": []
+    },
+    "산업1/HD현대중, AI전력·SMR 거점 구축 1조 투자.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 4212,
+      "modified_at": "2026-09-12T15:01:49.443Z",
+      "content_hash": "sha256:5874a3a0191bf7ed90284be283377948d73706bdc428022f42135350b57e9bf7",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-에너지전환.md"
+      ]
+    },
+    "산업1/석화 구조조정 마지막 퍼즐 울산…‘감축만으론 안 풀린다’.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 5024,
+      "modified_at": "2026-09-19T00:06:06.404Z",
+      "content_hash": "sha256:f11f51d0d9f915e6e23eb23b134fc9abf2f816ab112290b7694f427f33c12439",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "synthesis/울산-경제이슈-2026.md"
+      ]
+    },
+    "산업1/울산_암모니아_누출사고_이슈정리.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 10706,
+      "modified_at": "2026-09-19T00:06:06.404Z",
+      "content_hash": "sha256:0d928123a5a992fabcbbf0cf33f1a963ea509d7ec885d4465b7db4a572a43f81",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "synthesis/울산-경제이슈-2026.md",
+        "references/울산-SAFE-X.md"
+      ]
+    },
+    "산업1/이 대통령 중동 원유 의존도 50%대로 낮춰…유가 걱정 없다.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 5105,
+      "modified_at": "2026-09-12T14:59:08.559Z",
+      "content_hash": "sha256:ef9c58545dabc0872c993890de87c0df90c26307e8ebe238bfee7a98455c1ad5",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/울산-동북아-에너지허브.md"
+      ],
+      "pages_updated": []
+    },
+    "재정/BTO BTL.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 4581,
+      "modified_at": "2026-10-02T15:04:23.332Z",
+      "content_hash": "sha256:8d01f7766bb95acabe5711d7c8cb75bd7b676d4379f50a2d1002beea201be39e",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/민간투자사업-방식.md"
+      ],
+      "pages_updated": []
+    },
+    "재정/미래대응기금_텍스트전환.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 22323,
+      "modified_at": "2026-09-19T00:06:06.414Z",
+      "content_hash": "sha256:bc694b873ed0ef6fb4fea57cc479236c9d2a8ba31b4bc9ae1619cdfedf449b05",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/울산-미래대응기금.md"
+      ],
+      "pages_updated": []
+    },
+    "파일전환/(260921) 2027년 주요업무계획(녹지정원국) 제출 인쇄.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 130118,
+      "modified_at": "2026-09-24T17:14:49.316Z",
+      "content_hash": "sha256:2064a4bd68845035eb1367e5b1f4c8945426c431989c9fa4f5585b1ff31d52c2",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/울산-국제정원박람회.md"
+      ],
+      "pages_updated": []
+    },
+    "파일전환/04_2027년도 주요업무계획(AI혁신산업실) (1).md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 174485,
+      "modified_at": "2026-09-24T17:14:49.320Z",
+      "content_hash": "sha256:e920e9d960254ce346d54fbae14a0b71ca4b9b063ad188ecd91d6c7edfac407a",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-산업전환.md",
+        "concepts/울산-동북아-에너지허브.md",
+        "concepts/울산-에너지전환.md",
+        "entities/UNIST.md"
+      ]
+    },
+    "파일전환/08_2027년도 주요업무계획(권익인권담당관).md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 34163,
+      "modified_at": "2026-10-02T15:04:23.334Z",
+      "content_hash": "sha256:4679c5c0f72c143305768383a1adba4eaf06bf8e6c1edaa8a6125b3d264684a7",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/민선9기-2027-주요업무계획.md"
+      ],
+      "pages_updated": []
+    },
+    "파일전환/08_2027년도 주요업무계획(분권인구정책국) v8.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 152101,
+      "modified_at": "2026-10-02T15:04:23.337Z",
+      "content_hash": "sha256:dc3b04597b9bc4e78d34c6414bc46684e65f5898321d8bef9e8cdd17ffc407e9",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/민선9기-2027-주요업무계획.md"
+      ],
+      "pages_updated": []
+    },
+    "파일전환/09_2027년도 주요업무계획(보건환경연구원).md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 147209,
+      "modified_at": "2026-10-05T02:02:34.393Z",
+      "content_hash": "sha256:18259097a667029231e1066cab3783a6adde253698c82f56a61333a7c1a02fae",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/민선9기-2027-주요업무계획.md"
+      ],
+      "pages_updated": []
+    },
+    "파일전환/09_2027년도 주요업무계획(소방본부).md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 50217,
+      "modified_at": "2026-10-05T02:02:34.399Z",
+      "content_hash": "sha256:745e6a971b3a89554c46b3cf219f99f293a3953ff78f2116e8cacab891502356",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/민선9기-2027-주요업무계획.md"
+      ],
+      "pages_updated": []
+    },
+    "파일전환/20261004 ★ 2_1 (보고) 브리핑 계획서_남신항 에너지허브 2단계(경제부시장).md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 1551,
+      "modified_at": "2026-10-09T00:11:16.382Z",
+      "content_hash": "sha256:6d3c5519ebaad8357016caa4be472588384f63c4d722a34bdbaa535e8a986897",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/울산-동북아-에너지허브.md"
+      ],
+      "pages_updated": []
+    },
+    "파일전환/20261004 ★ 2_2 기자 회견문_남신항 에너지허브 2단계(경제부시장).md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 7191,
+      "modified_at": "2026-10-09T00:11:16.386Z",
+      "content_hash": "sha256:c3c57e30e08f547ebcf1a79c8392073f12d45f497aaf0c1284111822070d0da9",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/울산-동북아-에너지허브.md"
+      ],
+      "pages_updated": []
+    },
+    "파일전환/20261004 ★ 2_3 보도자료 울산시,‘남신항 에너지허브 2단계’본격 추진(공보관실 검수).md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 6478,
+      "modified_at": "2026-10-09T00:11:16.388Z",
+      "content_hash": "sha256:79e554c610ccde320338e5585e243d1578e02aabfcb3e23909c58bcdc6e74d69",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/울산-동북아-에너지허브.md"
+      ],
+      "pages_updated": []
+    },
+    "파일전환/20261004 ★ 2_4 참고자료_남신항 에너지허브 2단계(경제부시장).md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 51069,
+      "modified_at": "2026-10-09T00:11:16.391Z",
+      "content_hash": "sha256:c7af680455cecf02f8e931761243e27385b80bdca94fd6f50a1f81fff635f3d7",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/울산-동북아-에너지허브.md"
+      ],
+      "pages_updated": []
+    },
+    "파일전환/20261005-사우디 투자 협의C.md": {
+      "ingested_at": "2026-10-11T14:00:00.000Z",
+      "size_bytes": 8065,
+      "modified_at": "2026-10-05T07:28:08.048Z",
+      "content_hash": "sha256:82a2a881ae67a682b19bd775cd850b099c32bcda3d762ac700f5b8e89247eba6",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "재ingest 시 확인: 0 말말말/20261005-사우디 투자 협의C.md와 동일 내용(해시 동일). 그 파일로 한 번만 반영"
+    },
+    "파일전환/20261005-시장지시C.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 11283,
+      "modified_at": "2026-10-05T07:28:08.053Z",
+      "content_hash": "sha256:b6a7a5c85acf2bed8bb6913f4e3cd45289f163e931190a0e2667212f2dfda54b",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "0 말말말/20261005-시장지시C.md와 줄바꿈(CRLF)만 다른 동일 내용 — 중복"
+    },
+    "파일전환/20261005-울산 남신항 에너지허브 개발C.md": {
+      "ingested_at": "2026-10-11T14:00:00.000Z",
+      "size_bytes": 12814,
+      "modified_at": "2026-10-05T07:28:08.060Z",
+      "content_hash": "sha256:f03521206d7d83d0688300eadf3c5f8209f98ccf40ee253ab20f9b152cf9da70",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "재ingest 시 확인: 0 말말말/20261005-울산 남신항 에너지허브 개발C.md와 동일 내용(해시 동일). 그 파일로 한 번만 반영"
+    },
+    "파일전환/2026년 2분기 지역내총생산(GRDP) 결과.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 1560,
+      "modified_at": "2026-10-02T15:04:23.339Z",
+      "content_hash": "sha256:2ab1a9d6ac2b203b8e1ddea3cbc4eb90a9c3ed52e08db685a600f1189ca6e14b",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "synthesis/울산-경제이슈-2026.md"
+      ]
+    },
+    "파일전환/2027년도 주요업무계획 보고회 9차(10. 6.)_소방본부 및 보건환경연구원.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 5433,
+      "modified_at": "2026-10-05T02:02:34.403Z",
+      "content_hash": "sha256:cc50f0c26a63e4bbd9e20791354201e44a23d9f7e0b9ccbd09f41681ad157669",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/민선9기-2027-주요업무계획.md"
+      ],
+      "pages_updated": [],
+      "note": "보고회 일정·참석자·좌석배치 위주. 개요만 반영"
+    },
+    "파일전환/26 09 18 부시장님 주재 성장엔진 앵커기업 회의 자료v1(회의 탁자비치용)(최종).md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 36080,
+      "modified_at": "2026-10-02T15:05:57.514Z",
+      "content_hash": "sha256:8fa21c05f562c364673497754cc1893a0c1514a3ab1818541e08a9e6ff6520ce",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/5극3특-성장엔진.md"
+      ],
+      "pages_updated": []
+    },
+    "파일전환/260915 실국장회의 자료v3-압축.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 191088,
+      "modified_at": "2026-10-02T15:04:23.341Z",
+      "content_hash": "sha256:689a904b6cee54b6a64e3a0e74f7ca9352a14155bb63dcb798b6a529e802b370",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/민선9기-실국장회의-2026-08-09.md"
+      ],
+      "pages_updated": [],
+      "note": "1 회의/260915_실국장회의_자료_텍스트전환.md와 동일 회의의 다른 전환본. 5번 안건만 '해바라기센터 이전'(텍스트전환본은 '어린이 복합 교육놀이 공간')으로 상이하여 해당 부분만 추가 반영"
+    },
+    "파일전환/260918 5극3특 성장엔진 육성 앵커기업 회의 개최 계획(초안, 기념촬영 포함)(최종).md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 24746,
+      "modified_at": "2026-10-05T03:21:25.513Z",
+      "content_hash": "sha256:f44d82201f39b97b78abc816eadfd2262b58f1090383431f1062d24662217b40",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/5극3특-성장엔진.md"
+      ],
+      "pages_updated": []
+    },
+    "파일전환/261002 더불어민주당-울산광역시 예산정책협의회 개최 계획v15★.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 42511,
+      "modified_at": "2026-10-05T02:02:34.408Z",
+      "content_hash": "sha256:1cc3152c101df9427accc0358e6e292e684802ad7e236d4f0bddb7940e29d214",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/민주당-울산시-예산정책협의회-2026.md"
+      ],
+      "pages_updated": []
+    },
+    "파일전환/261002 더불어민주당-울산시 예정협 우선순위 및 지역현안 사업 회의자료v8(완전최종★★★).md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 126799,
+      "modified_at": "2026-10-05T02:02:34.413Z",
+      "content_hash": "sha256:115b749ac8078f8935599f56f27c7ed3371e2491c01e49e22ca3452d234988b2",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/민주당-울산시-예산정책협의회-2026.md"
+      ],
+      "pages_updated": []
+    },
+    "파일전환/★ 2026년 중동 투자유치단 파견 계획(요약).md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 6761,
+      "modified_at": "2026-10-05T02:12:45.187Z",
+      "content_hash": "sha256:2bbbab40e75796a7a52afa1ce62c8c34f5c4efdbe45306f5620afa00b408c6a2",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/울산-동북아-에너지허브.md"
+      ],
+      "pages_updated": []
+    },
+    "파일전환/★1. 2027년도 주요업무계획(도시국)- 발간용-수정_압축.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 122124,
+      "modified_at": "2026-10-02T15:04:23.351Z",
+      "content_hash": "sha256:0c0d6c13e0e8c7dcd0258ea66200cacd408d1cf42f8ad77634b48c259398a753",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "references/울산-도시개발.md"
+      ],
+      "note": "도시/2027년도_주요업무계획_도시국_상세텍스트화.md와 같은 계획의 원본 변환본. 내용은 그 파일과 함께 반영"
+    },
+    "파일전환/★10월 월간 좌석배치도v3.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 3956,
+      "modified_at": "2026-10-02T15:04:23.353Z",
+      "content_hash": "sha256:7a037fc34f1c9d3c8c4a813a5539a90583f7423aa23159d42279e6851b31c1da",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "references/민선9기-10월-주요업무회의-시장지시.md"
+      ],
+      "note": "보고회 좌석배치도. 일시·장소·배석 기관만 반영"
+    },
+    "파일전환/★10월 월간+4분기 공공기관 주요업무계획v2.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 134531,
+      "modified_at": "2026-10-02T15:04:23.356Z",
+      "content_hash": "sha256:7d3017b438bf13c9f527c247f30646001a79d3f1bba3c137efd31af29f521c9c",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "references/민선9기-10월-주요업무회의-시장지시.md"
+      ]
+    },
+    "파일전환/★2026년 중동 투자유치단 파견 계획.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 28195,
+      "modified_at": "2026-10-05T02:12:45.191Z",
+      "content_hash": "sha256:787c43503f2ccd72cf5e65f8cd55a2aa33cdf3fc8812ef4d60608bf121798de1",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/울산-동북아-에너지허브.md"
+      ],
+      "pages_updated": []
+    },
+    "파일전환/★260917 경주시장 내방 참고자료(울산용).md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 31037,
+      "modified_at": "2026-10-02T15:04:23.359Z",
+      "content_hash": "sha256:36b6deb4db5d5fd401fc92955da6a0acb148003536eb3c3ca0549cd184e7875e",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/울산-광역협력.md"
+      ],
+      "pages_updated": []
+    },
+    "파일전환/대면결재리스트(10.1.) 0930 18시 기준.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 1064,
+      "modified_at": "2026-10-04T01:19:12.217Z",
+      "content_hash": "sha256:81a15659d41d10d47a4404ec72de8f1d0d5e9162845bfb7cb267fa00a6fc1b75",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/울산-광역협력.md"
+      ],
+      "pages_updated": [
+        "references/민선9기-10월-주요업무회의-시장지시.md"
+      ],
+      "note": "10/1 시장 대면결재 안건 6건 목록. 광역협력 관련 안건만 반영"
+    },
+    "파일전환/동북아 에너지허브 추진 상황-에너지산업과 자료.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 28687,
+      "modified_at": "2026-10-05T02:12:45.198Z",
+      "content_hash": "sha256:f255887a8458c35d7b4f013642f1c6c46bdb74a2b40a9d9937bb60c7d3b61310",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/울산-동북아-에너지허브.md"
+      ],
+      "pages_updated": []
+    },
+    "파일전환/동북아 에너지허브 투자 및 협력 제안서(사우디)-에너지산업과 자료.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 5761,
+      "modified_at": "2026-10-05T02:12:45.203Z",
+      "content_hash": "sha256:65a40f2623f169299031b67143f7ab9013f51d505247dc5698a0df699b8ee1a3",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/울산-동북아-에너지허브.md"
+      ],
+      "pages_updated": []
+    },
+    "파일전환/동북아 에너지허브 투자제안(아람코)-에너지산업과 자료.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 2022,
+      "modified_at": "2026-10-05T02:12:45.210Z",
+      "content_hash": "sha256:6669f642f7edfd0b08029d5d10e151e83320213a231ac223e2bd4fd3833ff062",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/울산-동북아-에너지허브.md"
+      ],
+      "pages_updated": []
+    },
+    "파일전환/전세가격 및 집값 상승에 따른 주거안정대책 보고(건축정책과).md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 10130,
+      "modified_at": "2026-10-04T01:18:54.777Z",
+      "content_hash": "sha256:e442cc110fd1d253bf3fead414f1a443946c861d7c79ddc1967865bf38469d45",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "references/울산-부동산-현황.md"
+      ]
+    },
+    "환경과 녹지/260826_여천배수장_유수지_악취문제_해결_현안보고_텍스트전환.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 6867,
+      "modified_at": "2026-10-02T15:04:23.365Z",
+      "content_hash": "sha256:46106234a22b1b4d5ec49928553d70a8588ae1dffd7debadb562330805b48dbb",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/울산-국제정원박람회.md"
+      ],
+      "pages_updated": []
+    },
+    "환경과 녹지/260915_국제정원박람회_TF_추진상황_보고회_회의자료_텍스트전환.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 56197,
+      "modified_at": "2026-10-02T15:04:23.368Z",
+      "content_hash": "sha256:3bae810d75c96ccbd7c5fb33d7eb38bccc48b7e23a573d569a7c6a671c0f8c8e",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/울산-국제정원박람회.md"
+      ],
+      "pages_updated": []
+    },
+    "환경과 녹지/국제정원박람회 관련 전문가 자문위원회.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 262,
+      "modified_at": "2026-10-02T15:04:23.370Z",
+      "content_hash": "sha256:45285439ff5efe6ef07d89c543081137cc8c598c7e0afb082156ee03f52fe60a",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/울산-국제정원박람회.md"
+      ],
+      "pages_updated": [],
+      "note": "경제부시장 짧은 메모(시민 식수 프로젝트 구상)"
+    },
+    "환경과 녹지/상수도.md": {
+      "ingested_at": "2026-10-11T00:00:00.000Z",
+      "size_bytes": 92,
+      "modified_at": "2026-10-02T15:04:23.371Z",
+      "content_hash": "sha256:e259ec94f2e97432316b1e25d3d9f61bccff0dedd3cc512cbd77c330c6bd1da7",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "references/민선9기-10월-주요업무회의-시장지시.md"
+      ],
+      "note": "경제부시장 메모(삼산로 노후상수도관 45년)"
+    },
+    "daily/2026-06-14-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 12426,
+      "modified_at": "2026-06-17T06:05:48.167Z",
+      "content_hash": "sha256:82fabbf5f8ed2732fa27f043f39757f56161355f1f9b564214de3b159741c565",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "2026-06-17 세션에서 이미 반영(위키 sources에 인용됨). daily를 ingest 대상으로 바꾼 뒤 처음 해시를 기록함. 새로 반영할 사실 없음"
+    },
+    "daily/2026-06-15-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 29267,
+      "modified_at": "2026-06-16T11:58:34.413Z",
+      "content_hash": "sha256:35f7693d1b1b5d85f87c1b46a0dfe3f140d80259fdbf28c6e5ef65e6308c4dea",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "2026-06-17 세션에서 이미 반영(위키 sources에 인용됨). daily를 ingest 대상으로 바꾼 뒤 처음 해시를 기록함. 새로 반영할 사실 없음"
+    },
+    "daily/2026-06-16-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 31201,
+      "modified_at": "2026-06-16T21:36:28.946Z",
+      "content_hash": "sha256:9291c88a5e95c2ad834de525b5170ab1dd38841aac7c2ab1b18c11ef5304a6cf",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "2026-06-17 세션에서 이미 반영(위키 sources에 인용됨). daily를 ingest 대상으로 바꾼 뒤 처음 해시를 기록함. 새로 반영할 사실 없음"
+    },
+    "daily/2026-06-17-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 33788,
+      "modified_at": "2026-06-18T14:29:20.399Z",
+      "content_hash": "sha256:fcc5199e2a47e5ef6c5fd473c8df9ace80cb8bf6ffb31a258547bd987d5fbd16",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "synthesis/울산-경제이슈-2026.md"
+      ],
+      "note": "이전 세션에서 묶음 인용(\"07-06~24 15건\" 등)으로 다룬 브리핑. 빠진 항목만 synthesis/울산-경제이슈-2026 21절에 보완"
+    },
+    "daily/2026-06-18-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 34246,
+      "modified_at": "2026-06-20T05:24:41.735Z",
+      "content_hash": "sha256:4dd1253777f3370d7907bce29b29d1d8613f2786df2a226d92dafc6c80ae1ee7",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "synthesis/울산-경제이슈-2026.md"
+      ],
+      "note": "이전 세션에서 묶음 인용(\"07-06~24 15건\" 등)으로 다룬 브리핑. 빠진 항목만 synthesis/울산-경제이슈-2026 21절에 보완"
+    },
+    "daily/2026-06-19-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 34360,
+      "modified_at": "2026-06-19T23:31:03.320Z",
+      "content_hash": "sha256:ae16369274711261ee730684eff563a024dfb78d8b8cf3e03081fbc1591541a9",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "synthesis/울산-경제이슈-2026.md"
+      ],
+      "note": "이전 세션에서 묶음 인용(\"07-06~24 15건\" 등)으로 다룬 브리핑. 빠진 항목만 synthesis/울산-경제이슈-2026 21절에 보완"
+    },
+    "daily/2026-06-22-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 34375,
+      "modified_at": "2026-06-22T18:19:43.179Z",
+      "content_hash": "sha256:41033a28e057cdc4fe605b62f7c4dc615da5602a4b2c1685123007ac73db1b30",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "synthesis/울산-경제이슈-2026.md"
+      ],
+      "note": "이전 세션에서 묶음 인용(\"07-06~24 15건\" 등)으로 다룬 브리핑. 빠진 항목만 synthesis/울산-경제이슈-2026 21절에 보완"
+    },
+    "daily/2026-06-23-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 34320,
+      "modified_at": "2026-06-23T16:28:47.764Z",
+      "content_hash": "sha256:e40df50c8f47e3db57991d465e83a128db2c6ecc084212a45e89fbb72ddd7ec4",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "synthesis/울산-경제이슈-2026.md"
+      ],
+      "note": "이전 세션에서 묶음 인용(\"07-06~24 15건\" 등)으로 다룬 브리핑. 빠진 항목만 synthesis/울산-경제이슈-2026 21절에 보완"
+    },
+    "daily/2026-06-24-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 34789,
+      "modified_at": "2026-06-26T07:54:24.087Z",
+      "content_hash": "sha256:c578e2f6b9afa344a0c7999e0423770eabb492161c42a809ba7376332d8158c8",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "synthesis/울산-경제이슈-2026.md"
+      ],
+      "note": "이전 세션에서 묶음 인용(\"07-06~24 15건\" 등)으로 다룬 브리핑. 빠진 항목만 synthesis/울산-경제이슈-2026 21절에 보완"
+    },
+    "daily/2026-06-25-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 33829,
+      "modified_at": "2026-06-26T08:41:37.718Z",
+      "content_hash": "sha256:2d334210fe34748a0e2c3dfbdf83e4d3be624c93e57d7c8bedaf56276eec5981",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "synthesis/울산-경제이슈-2026.md"
+      ],
+      "note": "이전 세션에서 묶음 인용(\"07-06~24 15건\" 등)으로 다룬 브리핑. 빠진 항목만 synthesis/울산-경제이슈-2026 21절에 보완"
+    },
+    "daily/2026-07-27-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 24559,
+      "modified_at": "2026-08-01T10:54:18.252Z",
+      "content_hash": "sha256:ff7a9ff04e404636883e98c15379206bde9d0575b2be45220a468d541ba3219f",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-산업전환.md",
+        "concepts/울산-에너지전환.md",
+        "concepts/울산-트램1호선-재검토.md",
+        "synthesis/울산-경제이슈-2026.md",
+        "synthesis/울산-정치지형.md"
+      ]
+    },
+    "daily/2026-07-28-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 23261,
+      "modified_at": "2026-08-01T10:54:18.255Z",
+      "content_hash": "sha256:29c76ff4a0cc19037400a9f241bc3eac8fc20ce847487373e877f43c660c5374",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-트램1호선-재검토.md",
+        "references/울산-국제정원박람회.md",
+        "synthesis/울산-경제이슈-2026.md",
+        "synthesis/울산-정치지형.md"
+      ]
+    },
+    "daily/2026-07-29-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 23387,
+      "modified_at": "2026-08-01T10:54:18.259Z",
+      "content_hash": "sha256:def9f07f8d2a9bc64699a536328ba19211939f29c55b905e70dd8e463ccce2f8",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-대중교통.md",
+        "references/울산-도시개발.md",
+        "synthesis/울산-경제이슈-2026.md"
+      ]
+    },
+    "daily/2026-07-30-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 23582,
+      "modified_at": "2026-08-01T10:54:18.263Z",
+      "content_hash": "sha256:3c3cfffcd02d9bc92239d0a67400acf2545f55e5da64db98329efd510647d5c4",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-트램1호선-재검토.md",
+        "references/울산-부동산-현황.md",
+        "synthesis/울산-경제이슈-2026.md",
+        "synthesis/울산-정치지형.md"
+      ]
+    },
+    "daily/2026-07-31-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 22181,
+      "modified_at": "2026-08-01T10:54:18.268Z",
+      "content_hash": "sha256:d84ebaa59cd4b493376bf8ff8999467d9c49f21fdd1c07783116ba60b2c73399",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-트램1호선-재검토.md",
+        "references/울산-국제정원박람회.md",
+        "synthesis/울산-경제이슈-2026.md",
+        "synthesis/울산-정치지형.md"
+      ]
+    },
+    "daily/2026-08-03-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 25562,
+      "modified_at": "2026-09-12T14:58:13.599Z",
+      "content_hash": "sha256:4be09420f48b755cc016841bb64ddff565fae99a271f062c6c59973e705f82f9",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [
+        "concepts/공공기관-기능개혁-2차이전.md"
+      ],
+      "pages_updated": [
+        "concepts/울산-대중교통.md",
+        "concepts/울산-산업전환.md",
+        "concepts/울산-트램1호선-재검토.md",
+        "entities/김상욱.md",
+        "references/울산-부동산-현황.md",
+        "synthesis/울산-경제이슈-2026.md"
+      ]
+    },
+    "daily/2026-08-04-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 22903,
+      "modified_at": "2026-09-12T14:58:13.605Z",
+      "content_hash": "sha256:7dd10c06c80eab076c7f984e514c1d7a027bbe35a1afde9f458ecd7c1d2ef579",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [
+        "concepts/공공기관-기능개혁-2차이전.md"
+      ],
+      "pages_updated": [
+        "synthesis/울산-경제이슈-2026.md",
+        "synthesis/울산-정치지형.md"
+      ]
+    },
+    "daily/2026-08-05-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 23936,
+      "modified_at": "2026-09-12T14:58:13.607Z",
+      "content_hash": "sha256:d25a9645b2eda390c9bf24a79fcc2a5870ff942a5bdfc58a6d0876d7480fb94b",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-에너지전환.md",
+        "entities/UNIST.md",
+        "references/울산-부동산-현황.md",
+        "synthesis/울산-경제이슈-2026.md",
+        "synthesis/울산-정치지형.md"
+      ]
+    },
+    "daily/2026-08-07-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 17775,
+      "modified_at": "2026-09-12T14:58:13.610Z",
+      "content_hash": "sha256:56dcc7de522d0cdbfab56ba820283ee7fa97050dce7b5bd2982b675507161252",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "references/울산-부동산-현황.md",
+        "synthesis/울산-경제이슈-2026.md",
+        "synthesis/울산-정치지형.md"
+      ]
+    },
+    "daily/2026-08-10-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 28931,
+      "modified_at": "2026-09-12T14:58:13.613Z",
+      "content_hash": "sha256:130f054c50171efcc5073385afed9d0defe9eaf1a291953cb24fd7187f91f22b",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "entities/UNIST.md",
+        "synthesis/울산-경제이슈-2026.md"
+      ]
+    },
+    "daily/2026-08-11-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 32690,
+      "modified_at": "2026-09-12T14:58:13.617Z",
+      "content_hash": "sha256:8f7eaaacf5788a42bc83006976bb04528ed117a487a23aaa5f8551a8f5910882",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "entities/김상욱.md",
+        "synthesis/울산-경제이슈-2026.md"
+      ]
+    },
+    "daily/2026-08-12-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 20706,
+      "modified_at": "2026-09-12T14:58:13.619Z",
+      "content_hash": "sha256:53ff231d08344426c18d699019edc73d4990891991bd3bc505c1ab1a308211ab",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-대중교통.md",
+        "entities/UNIST.md",
+        "references/울산-복지-이슈.md",
+        "synthesis/울산-경제이슈-2026.md"
+      ]
+    },
+    "daily/2026-08-13-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 28591,
+      "modified_at": "2026-09-12T14:58:13.623Z",
+      "content_hash": "sha256:3514a7507060fd0984593e992faf84e3413214cff077a2b1258c7e1a21d7702b",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-대중교통.md",
+        "concepts/울산-산업전환.md",
+        "concepts/울산-에너지전환.md",
+        "concepts/울산-트램1호선-재검토.md",
+        "references/울산-복지-이슈.md",
+        "references/울산-부동산-현황.md",
+        "synthesis/울산-경제이슈-2026.md"
+      ]
+    },
+    "daily/2026-08-14-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 21034,
+      "modified_at": "2026-09-12T14:58:13.625Z",
+      "content_hash": "sha256:2f8da87f2a5caac8d837d935b2ec6c8eca20073218488a4c82be1b6be8ebd373",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [
+        "concepts/공공기관-기능개혁-2차이전.md"
+      ],
+      "pages_updated": [
+        "concepts/울산-대중교통.md",
+        "references/울산-도시개발.md",
+        "references/울산-부동산-현황.md",
+        "synthesis/울산-경제이슈-2026.md",
+        "synthesis/울산-정치지형.md"
+      ]
+    },
+    "daily/2026-08-17-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 21969,
+      "modified_at": "2026-09-12T14:58:13.627Z",
+      "content_hash": "sha256:28bb1e494d71705e8752021cb01312bd7d3d5dcc6051430386cf48dc612695f3",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-광역협력.md",
+        "references/울산-국제정원박람회.md",
+        "references/울산-부동산-현황.md",
+        "synthesis/울산-경제이슈-2026.md",
+        "synthesis/울산-정치지형.md"
+      ]
+    },
+    "daily/2026-08-18-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 18506,
+      "modified_at": "2026-09-12T14:58:13.629Z",
+      "content_hash": "sha256:40db0589c8973a47abfda069a327f5eeed7135c45d7a02ce26c4ca1bc3be3c2f",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-에너지전환.md",
+        "entities/김상욱.md",
+        "synthesis/울산-경제이슈-2026.md"
+      ]
+    },
+    "daily/2026-08-19-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 25023,
+      "modified_at": "2026-09-12T14:58:13.632Z",
+      "content_hash": "sha256:8a093142f519a5598105fa41ec282b3d3dde906a56fbcba016ad33088cf08917",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-대중교통.md",
+        "references/울산-국제정원박람회.md",
+        "references/울산-부동산-현황.md",
+        "synthesis/울산-경제이슈-2026.md"
+      ]
+    },
+    "daily/2026-08-20-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 27142,
+      "modified_at": "2026-09-12T14:58:13.636Z",
+      "content_hash": "sha256:99e0948a4b894eb777cfea93907426e708674b2a69804658c36a9680baef471c",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [
+        "concepts/공공기관-기능개혁-2차이전.md"
+      ],
+      "pages_updated": [
+        "concepts/울산-광역협력.md",
+        "concepts/울산-대중교통.md",
+        "references/울산-국제정원박람회.md",
+        "references/울산-복지-이슈.md",
+        "references/울산-부동산-현황.md",
+        "synthesis/울산-경제이슈-2026.md"
+      ]
+    },
+    "daily/2026-08-21-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 25940,
+      "modified_at": "2026-09-12T14:58:13.637Z",
+      "content_hash": "sha256:c651d4db5174f6d1e4a2f6495504ab2a866f4d90e541a98273ab9f87f62e6441",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [
+        "concepts/공공기관-기능개혁-2차이전.md"
+      ],
+      "pages_updated": [
+        "references/울산-부동산-현황.md",
+        "synthesis/울산-경제이슈-2026.md"
+      ]
+    },
+    "daily/2026-08-24-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 28907,
+      "modified_at": "2026-09-12T14:58:13.641Z",
+      "content_hash": "sha256:13495c8de977958ce622c08bf4379bca41fc9ca95df27621681316d0e245a234",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [
+        "concepts/공공기관-기능개혁-2차이전.md"
+      ],
+      "pages_updated": [
+        "concepts/울산-산업전환.md",
+        "references/울산-도시개발.md",
+        "synthesis/울산-경제이슈-2026.md"
+      ]
+    },
+    "daily/2026-08-25-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 27777,
+      "modified_at": "2026-09-12T14:58:13.643Z",
+      "content_hash": "sha256:e060b93fc74e44b996dd629b5f24b3f25aafaf58c8d8f7bc30d60e40da68ccf8",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-대중교통.md",
+        "concepts/울산-동북아-에너지허브.md",
+        "references/울산-복지-이슈.md",
+        "references/울산-부동산-현황.md",
+        "synthesis/울산-경제이슈-2026.md"
+      ]
+    },
+    "daily/2026-08-26-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 25702,
+      "modified_at": "2026-09-12T14:58:13.643Z",
+      "content_hash": "sha256:6c909edda6d15f2343ec9e2e15259b5b71fb6d8e1e5be90c9e4a3b0dd9f81c79",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-대중교통.md",
+        "concepts/울산-산업전환.md",
+        "entities/UNIST.md",
+        "references/울산-문화관광체육-정책.md",
+        "references/울산-복지-이슈.md",
+        "synthesis/울산-경제이슈-2026.md"
+      ]
+    },
+    "daily/2026-09-01-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 21714,
+      "modified_at": "2026-09-12T14:58:13.648Z",
+      "content_hash": "sha256:6b21f077ddeba237cd2de66cbbe4292212d7f06dfa17dc919f55f688f6d59831",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [
+        "concepts/공공기관-기능개혁-2차이전.md"
+      ],
+      "pages_updated": [
+        "concepts/울산-동북아-에너지허브.md",
+        "concepts/울산-트램1호선-재검토.md",
+        "references/울산-복지-이슈.md",
+        "references/울산-부동산-현황.md",
+        "synthesis/울산-경제이슈-2026.md"
+      ]
+    },
+    "daily/2026-09-02-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 26042,
+      "modified_at": "2026-09-12T14:58:13.651Z",
+      "content_hash": "sha256:fd065d5fe5da5bac0a47217e76e11e1458d4fe0c0cd48343b8ee285b83c24e43",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-대중교통.md",
+        "concepts/울산-산업전환.md",
+        "concepts/울산-에너지전환.md",
+        "entities/UNIST.md",
+        "references/울산-복지-이슈.md",
+        "references/울산신용보증재단-사옥매입-논란.md",
+        "synthesis/울산-경제이슈-2026.md"
+      ]
+    },
+    "daily/2026-09-03-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 28503,
+      "modified_at": "2026-09-12T14:58:13.652Z",
+      "content_hash": "sha256:80b3a7a5ad73fc17055c07779a7b788ef80bb6d7493e3cdce45a4075810defed",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [
+        "concepts/공공기관-기능개혁-2차이전.md"
+      ],
+      "pages_updated": [
+        "concepts/울산-산업전환.md",
+        "concepts/울산-트램1호선-재검토.md",
+        "references/울산-국제정원박람회.md",
+        "references/울산-도시개발.md",
+        "synthesis/울산-경제이슈-2026.md",
+        "synthesis/울산-정치지형.md"
+      ]
+    },
+    "daily/2026-09-04-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 15779,
+      "modified_at": "2026-09-12T14:58:13.652Z",
+      "content_hash": "sha256:60cc00b7d96c91a6f4651a8f6b14818c6c6cfb830e7d198b63fc3513a0438650",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [
+        "concepts/공공기관-기능개혁-2차이전.md"
+      ],
+      "pages_updated": [
+        "concepts/울산-트램1호선-재검토.md",
+        "references/울산-도시개발.md",
+        "synthesis/울산-경제이슈-2026.md"
+      ]
+    },
+    "daily/2026-09-07-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 31217,
+      "modified_at": "2026-09-12T14:58:13.659Z",
+      "content_hash": "sha256:6e081b7c5122f42aa3ec7641927cb69321b4ef07c9b474034105c7b41c1f66a7",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [
+        "concepts/공공기관-기능개혁-2차이전.md"
+      ],
+      "pages_updated": [
+        "concepts/울산-광역협력.md",
+        "concepts/울산-에너지전환.md",
+        "concepts/울산-트램1호선-재검토.md",
+        "entities/김상욱.md",
+        "references/울산-국제정원박람회.md",
+        "references/울산-도시개발.md",
+        "references/울산-복지-이슈.md",
+        "synthesis/울산-경제이슈-2026.md"
+      ]
+    },
+    "daily/2026-09-08-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 29117,
+      "modified_at": "2026-09-12T14:58:13.662Z",
+      "content_hash": "sha256:ac689770baa35a49dd696e8ffd635fb867f2d33d78af3d27848cf58e15f29de5",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [
+        "concepts/공공기관-기능개혁-2차이전.md"
+      ],
+      "pages_updated": [
+        "concepts/울산-광역협력.md",
+        "concepts/울산-대중교통.md",
+        "concepts/울산-동북아-에너지허브.md",
+        "references/울산-부동산-현황.md",
+        "synthesis/울산-경제이슈-2026.md"
+      ]
+    },
+    "daily/2026-09-09-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 29742,
+      "modified_at": "2026-09-12T14:58:13.664Z",
+      "content_hash": "sha256:ff44e8c48f7b8478af2ff5d4e77c68bbe616f3542530be1a8c64d1785439697e",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-광역협력.md",
+        "concepts/울산-트램1호선-재검토.md",
+        "references/울산-부동산-현황.md",
+        "references/울산신용보증재단-사옥매입-논란.md",
+        "synthesis/울산-경제이슈-2026.md",
+        "synthesis/울산-정치지형.md"
+      ]
+    },
+    "daily/2026-09-10-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 26950,
+      "modified_at": "2026-09-12T14:58:13.666Z",
+      "content_hash": "sha256:0415f6c0092e2dbae741890b1b432d14e69047a7f6a4b1fec5085eebc7b118d7",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [
+        "concepts/공공기관-기능개혁-2차이전.md"
+      ],
+      "pages_updated": [
+        "concepts/울산-대중교통.md",
+        "concepts/울산-산업전환.md",
+        "concepts/울산-에너지전환.md",
+        "entities/김상욱.md",
+        "references/울산-문화관광체육-정책.md",
+        "references/울산-부동산-현황.md",
+        "synthesis/울산-경제이슈-2026.md",
+        "synthesis/울산-정치지형.md"
+      ]
+    },
+    "daily/2026-09-11-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 15972,
+      "modified_at": "2026-09-12T15:01:15.528Z",
+      "content_hash": "sha256:5a6a12e988bef64aff2fdf32b1631d6fa3d4dcc13ea01dcf8da54c2db9ac46f8",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-산업전환.md",
+        "entities/김상욱.md",
+        "synthesis/울산-경제이슈-2026.md",
+        "synthesis/울산-정치지형.md"
+      ]
+    },
+    "daily/2026-09-15-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 20768,
+      "modified_at": "2026-09-19T00:06:06.358Z",
+      "content_hash": "sha256:588cb5776ec206e20d3cf972a6200a000798b16536c7e3c4ea898b455bb4d3f9",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-대중교통.md",
+        "concepts/울산-산업전환.md",
+        "references/울산-도시개발.md",
+        "references/울산-문화관광체육-정책.md",
+        "references/울산-복지-이슈.md",
+        "references/울산-부동산-현황.md",
+        "synthesis/울산-경제이슈-2026.md"
+      ]
+    },
+    "daily/2026-09-16-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 24887,
+      "modified_at": "2026-09-19T00:06:06.358Z",
+      "content_hash": "sha256:b219b34686aaa4d3c4252b67608f2f140116aa3f7ccb2c30c8b57d2fd9984c32",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-대중교통.md",
+        "concepts/울산-산업전환.md",
+        "concepts/울산-에너지전환.md",
+        "entities/UNIST.md",
+        "entities/김상욱.md",
+        "references/울산-국제정원박람회.md",
+        "references/울산-도시개발.md",
+        "references/울산-복지-이슈.md",
+        "synthesis/울산-경제이슈-2026.md",
+        "synthesis/울산-정치지형.md"
+      ]
+    },
+    "daily/2026-09-17-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 27522,
+      "modified_at": "2026-09-20T00:07:35.773Z",
+      "content_hash": "sha256:d6051ca7d9072e4e6cc9272120786f13f5a387bd994ea127ad49ec1e70004d3b",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-에너지전환.md",
+        "concepts/울산-트램1호선-재검토.md",
+        "references/울산-도시개발.md",
+        "synthesis/울산-경제이슈-2026.md"
+      ]
+    },
+    "daily/2026-09-18-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 14999,
+      "modified_at": "2026-09-19T06:31:44.005Z",
+      "content_hash": "sha256:df94b0784615861c5a682d1fb743dcf0b8c790f93a4ecf3b4dd0fe770522f5ed",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [
+        "concepts/공공기관-기능개혁-2차이전.md"
+      ],
+      "pages_updated": [
+        "references/울산-문화관광체육-정책.md",
+        "synthesis/울산-경제이슈-2026.md"
+      ]
+    },
+    "daily/2026-09-22-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 26058,
+      "modified_at": "2026-09-24T10:29:44.036Z",
+      "content_hash": "sha256:3af4ab48aad536062cefb6f74c06574dbec40972202e1fb866caf5318bed2a11",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-대중교통.md",
+        "concepts/울산-산업전환.md",
+        "concepts/울산-에너지전환.md",
+        "entities/김상욱.md",
+        "references/울산-국제정원박람회.md",
+        "references/울산-복지-이슈.md",
+        "references/울산신용보증재단-사옥매입-논란.md",
+        "synthesis/울산-경제이슈-2026.md",
+        "synthesis/울산-정치지형.md"
+      ]
+    },
+    "daily/2026-09-23-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 16817,
+      "modified_at": "2026-09-24T10:30:18.802Z",
+      "content_hash": "sha256:1ac67a75aaef32e545f10af8fcbc310fb77a7d405b1bb0936220553b34739826",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [
+        "concepts/공공기관-기능개혁-2차이전.md"
+      ],
+      "pages_updated": [
+        "concepts/울산-동북아-에너지허브.md",
+        "concepts/울산-산업전환.md",
+        "synthesis/울산-경제이슈-2026.md"
+      ]
+    },
+    "daily/2026-09-24-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 5478,
+      "modified_at": "2026-09-24T18:15:32.006Z",
+      "content_hash": "sha256:d223a34b97f418ee249afdba0ab030b6edaf822eb7680a1734c9dcceddfc5ab8",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "references/울산-문화관광체육-정책.md",
+        "synthesis/울산-경제이슈-2026.md"
+      ],
+      "note": "추석·연휴 전후 나눔·행사 위주 브리핑. 정책 관련 일부(합창대회 논란, 과학대 경쟁률 등)만 반영"
+    },
+    "daily/2026-09-25-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 8276,
+      "modified_at": "2026-09-26T23:33:38.629Z",
+      "content_hash": "sha256:ce20ef2d440f6fd73b3bf120ca07587702379beff0fa51338f31811b2bbd3e4f",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "synthesis/울산-경제이슈-2026.md"
+      ],
+      "note": "추석·연휴 전후 나눔·행사 위주 브리핑. 정책 관련 일부(합창대회 논란, 과학대 경쟁률 등)만 반영"
+    },
+    "daily/2026-09-28-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 31806,
+      "modified_at": "2026-10-02T15:04:23.321Z",
+      "content_hash": "sha256:99b27fb9f6d09cd6ffa0a17ca127e164a6cd6c343978c1620cba3c5e18df66f7",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [
+        "concepts/공공기관-기능개혁-2차이전.md"
+      ],
+      "pages_updated": [
+        "concepts/울산-대중교통.md",
+        "concepts/울산-동북아-에너지허브.md",
+        "concepts/울산-트램1호선-재검토.md",
+        "references/울산-국제정원박람회.md",
+        "references/울산-도시개발.md",
+        "references/울산-문화관광체육-정책.md",
+        "references/울산-부동산-현황.md",
+        "synthesis/울산-경제이슈-2026.md",
+        "synthesis/울산-정치지형.md"
+      ]
+    },
+    "daily/2026-09-29-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 20956,
+      "modified_at": "2026-10-02T15:04:23.322Z",
+      "content_hash": "sha256:bbb7219e0b9f683abaca1e6ef0217bc4c037de6b595706911d0557a0d3a973a6",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [
+        "concepts/공공기관-기능개혁-2차이전.md"
+      ],
+      "pages_updated": [
+        "entities/김상욱.md",
+        "references/울산-도시개발.md",
+        "references/울산-복지-이슈.md",
+        "references/울산-부동산-현황.md",
+        "synthesis/울산-경제이슈-2026.md",
+        "synthesis/울산-정치지형.md"
+      ]
+    },
+    "daily/2026-09-30-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 24382,
+      "modified_at": "2026-10-02T15:04:23.324Z",
+      "content_hash": "sha256:284c023776f963f24395691405a8adfed72607e20b9c984f6cf120837acd78df",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-광역협력.md",
+        "entities/김상욱.md",
+        "references/울산-도시개발.md",
+        "references/울산-문화관광체육-정책.md",
+        "references/울산-복지-이슈.md",
+        "references/울산-부동산-현황.md",
+        "references/울산신용보증재단-사옥매입-논란.md",
+        "synthesis/울산-경제이슈-2026.md",
+        "synthesis/울산-정치지형.md"
+      ]
+    },
+    "daily/2026-10-01-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 20598,
+      "modified_at": "2026-10-02T15:04:23.325Z",
+      "content_hash": "sha256:5c7e7855c3d08ea5f873430b133a1585dbd1208c4c53ff6f3914b5d3128ae98b",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "entities/UNIST.md",
+        "entities/김상욱.md",
+        "references/울산-복지-이슈.md",
+        "references/울산신용보증재단-사옥매입-논란.md",
+        "synthesis/울산-경제이슈-2026.md",
+        "synthesis/울산-정치지형.md"
+      ]
+    },
+    "daily/2026-10-02-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 6657,
+      "modified_at": "2026-10-04T01:18:52.518Z",
+      "content_hash": "sha256:8dcbbe3853db85054ef3d31b57c93a73c286572a7b65abd00e1cf2cd35675792",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "synthesis/울산-경제이슈-2026.md"
+      ],
+      "note": "추석·연휴 전후 나눔·행사 위주 브리핑. 정책 관련 일부(합창대회 논란, 과학대 경쟁률 등)만 반영"
+    },
+    "daily/2026-10-05-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 19438,
+      "modified_at": "2026-10-09T00:11:16.373Z",
+      "content_hash": "sha256:321b91ffaa36dedcf2901e118d72b8608ddb01e4935062b166ea5aa0893e07e5",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [
+        "concepts/공공기관-기능개혁-2차이전.md"
+      ],
+      "pages_updated": [
+        "concepts/울산-트램1호선-재검토.md",
+        "references/울산-국제정원박람회.md",
+        "references/울산-문화관광체육-정책.md",
+        "synthesis/울산-경제이슈-2026.md"
+      ]
+    },
+    "daily/2026-10-06-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 21082,
+      "modified_at": "2026-10-09T00:11:16.373Z",
+      "content_hash": "sha256:0d70d1026d9b69b3b4ce8c8241118722359c29d1f0208d028434debc2869e017",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [
+        "concepts/공공기관-기능개혁-2차이전.md"
+      ],
+      "pages_updated": [
+        "concepts/울산-동북아-에너지허브.md",
+        "references/울산-부동산-현황.md",
+        "synthesis/울산-경제이슈-2026.md",
+        "synthesis/울산-정치지형.md"
+      ]
+    },
+    "daily/2026-10-07-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 18839,
+      "modified_at": "2026-10-09T00:11:16.373Z",
+      "content_hash": "sha256:a4df39f551b007416f2a93e1bd9f9eb70b6a43e122df738f997ea480c599b9c0",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-광역협력.md",
+        "concepts/울산-동북아-에너지허브.md",
+        "entities/UNIST.md",
+        "references/울산-국제정원박람회.md",
+        "references/울산-문화관광체육-정책.md",
+        "references/울산-복지-이슈.md",
+        "synthesis/울산-경제이슈-2026.md",
+        "synthesis/울산-정치지형.md"
+      ]
+    },
+    "daily/2026-10-08-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 15623,
+      "modified_at": "2026-10-09T00:13:47.568Z",
+      "content_hash": "sha256:ab2ad60f6db4ab48566384ed772d7872103a645f77e0c745ecec427990854534",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "concepts/울산-동북아-에너지허브.md",
+        "concepts/울산-산업전환.md",
+        "concepts/울산-에너지전환.md",
+        "references/울산-복지-이슈.md",
+        "synthesis/울산-경제이슈-2026.md"
+      ]
+    },
+    "daily/2026-10-09-ulsan-briefing.md": {
+      "ingested_at": "2026-10-11T12:00:00.000Z",
+      "size_bytes": 8097,
+      "modified_at": "2026-10-09T19:26:52.856Z",
+      "content_hash": "sha256:ed68e2f75c142e46cfd3fb1eea9c6a29f4c530785cdbca641faf0b6d2952a613",
+      "source_type": "daily_briefing",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [
+        "references/울산-문화관광체육-정책.md",
+        "references/울산-복지-이슈.md",
+        "synthesis/울산-경제이슈-2026.md"
+      ]
     }
   }
 }
