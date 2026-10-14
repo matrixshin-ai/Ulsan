@@ -34,7 +34,7 @@ source: ulsan-economy-dashboard
 - [HD현대중공업, 필리핀 해군 세번째 원해경비함 진수](https://www.ksilbo.co.kr/news/articleView.html?idxno=1069508) (경상일보 - 전체기사)
   > HD현대중공업이 10년간 함정 사업 협력을 이어온 필리핀 해군의 세번째 원해경비함(OPV)을 성공적으로 진수했다. HD현대중공업은 13일 울산 본사에서 2400t급 필리핀 원해경비함 3번함인 ‘라자 후마본’(Rajah Humabon)함 진수식을 열었다. 지난해 건조한 
 - [교복 입찰담합 대리점 10곳에 1억 과징금](https://www.donga.com/news/Economy/article/all/20261013/134835778/2) (동아일보 | 경제 뉴스)
-  > <img align="left" hspace="10" src="https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/13/134834187.1.jpg" vspace="10" />중고교 교복 구매입찰에서 납품할 업체와 가격 등을 짬짜미한 교복
+  > 중고교 교복 구매입찰에서 납품할 업체와 가격 등을 짬짜미한 교복
 - [울산항도 중동전쟁 여파 원유 수급 거점 급변](https://www.ulsanpress.net/news/articleView.html?idxno=584576) (울산신문 - 전체기사)
   > 중동전쟁 이후 울산항으로 들어오는 원유의 주요 선적 거점이 호르무즈 해협 안쪽에서 홍해와 오만만 등 해협 바깥으로 급격히 이동한 것으로 나타났다. 13일 울산세관에 따르면 올해 1~9월 울산항에 반입된 원유 4,189만7,000톤의 주요 적재항을 분석한 결과 호르무즈 
 
