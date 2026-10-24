@@ -2,8 +2,8 @@
 source_title: "ulsan writing"
 source_doc_id: 1ghKUyOMplgd86happR_PRCWM1y2vNXaRqDwXxoEBvO0
 source_url: https://docs.google.com/document/d/1ghKUyOMplgd86happR_PRCWM1y2vNXaRqDwXxoEBvO0/edit
-source_revision_id: AHj4eMTsrE3BZHckRthX56imhtJ2TFYkjWt7jCZVzJ8aS8fUAl14_ZOPvh3AYeCv-64icn9f1cwjQ9QdUhQx1dF_eW5-hHNPtF0pktk6X7M
-synced_at: 2026-10-23T12:25:32+0900
+source_revision_id: AHj4eMT9pWPU_qPBOJpvIOyo3nsMWB5Uykp85DNczfTmSN3ahB2rcXUN0Sk8GX_AY5oiYZ07PrHLYYEmq_FwfeKQL9uVDt3sULgRoFRAQng
+synced_at: 2026-10-25T08:30:03+0900
 ---
 울산 롸이팅 기능을 시작한다. 정상 작동 여부를 파악하기 위한 dry run을 실시한다.
 
@@ -11,4 +11,6 @@ synced_at: 2026-10-23T12:25:32+0900
 
 울산은 동아리 문화가 너무 적다. 현황 파악은 있는가? 또는 추정치라도 있는가? 키워야 한다.
 
-(경부) 울주군에 산불진화를 위해 임도가 확충되어야 하는데, 임도가 부족하다. 그래서 헬기를 확충해야 한다.
+(경부) 울주군에 산불진화를 위해 임도가 확충되어야 하는데, 임도가 부족하다. 그래서 헬기를 확충해야 한다. 
+
+(뉴스) 산업용 AI를 실현하려면 두 가지 실패 유형을 피해야 한다. 하나는 오만이다. 자국 산업의 역량을 대폭 끌어올려 줄 미국산 AI 모델 없이도 독자생존할 수 있다고 믿다가 뒤처져 경쟁에서 도태되는 경우다. 다른 하나는 순진함이다. 미국 기업들을 불러들였으나 그들이 필요한 것만 챙겨 산업을 미국 본토로 리쇼어링하고 결국 쓸모가 없어진 동맹국을 버리는 상황이다.
